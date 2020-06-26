@@ -1,0 +1,64 @@
+/**
+ * HEADER
+ */
+.hd-WrapperFlex {
+    background-color: $color-brand;
+    box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.4);
+}
+
+.hd-WrapperFixed {
+  // -webkit-box-align: center;
+  // -webkit-align-items: center;
+  // -ms-flex-align: center;
+  // -ms-grid-row-align: center;
+  // align-items: center;
+  // display: -webkit-box;
+  // display: -webkit-flex;
+  // display: -ms-flexbox;
+  // display: flex;
+  // -webkit-box-pack: justify;
+  // -webkit-justify-content: space-between;
+  // -ms-flex-pack: justify;
+  //         justify-content: space-between;
+  @include clearfix;
+  padding: 8px $pad-sm 4px;
+  
+
+  @include media-query($bp-md) {
+    padding: 12px $pad-md 6px;
+  }
+
+  @include media-query(1200px) {
+    padding: 20px $pad-lg 25px;
+  }
+
+  a:hover {
+      opacity: $opacity-hover;
+  }
+
+}
+
+.hd-Logo {
+  display: block;
+  float: none;
+  height: auto;
+  margin: 5px auto 15px;
+  max-width: 290px;
+  // border:1px solid goldenrod;
+
+  @include media-query($bp-md) {
+    max-width: 400px;
+    width: 400px;
+    // border:1px solid black;
+  }
+
+  @include media-query(1200px) {
+    display: inline-block;
+    float: left;
+    margin: 0;
+    max-width: 400px;
+    width: 400px;
+    // border:1px solid red;
+  }
+     
+}

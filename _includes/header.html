@@ -1,0 +1,64 @@
+<header class="hd-WrapperFlex" role="banner">
+
+  <div class="hd-WrapperFixed">
+    <a class="hd-Logo" href="{{site.baseurl}}/" title="Urban Health Project">
+      <img src="{{site.baseurl}}/imgs/logo-urban-health-project.svg" onerror="{{site.baseurl}}/imgs/logo-urban-health-project.png"  alt="Urban Health Project logo - Serving Greater Cincinnati since 1986">
+    </a>
+
+    <nav class="hd-Nav_Wrapper" role="navigation">
+      {% if page.url == '/' %}
+        <a class="hd-Nav_Link  is-Selected" href="{{site.baseurl}}/">
+      {% else %}
+        <a class="hd-Nav_Link" href="{{site.baseurl}}/">
+      {% endif %}
+        <span>Home</span>
+      </a>
+      {% if page.url == '/sites.html' %}
+        <a class="hd-Nav_Link  is-Selected" href="{{site.baseurl}}/sites.html">
+      {% else %}
+        <a class="hd-Nav_Link" href="{{site.baseurl}}/sites.html">
+      {% endif %}
+        <span>Sites</span>
+      </a>
+      {% if page.url == '/funders.html' %}
+        <a class="hd-Nav_Link  is-Selected" href="{{site.baseurl}}/funders.html">
+      {% else %}
+        <a class="hd-Nav_Link" href="{{site.baseurl}}/funders.html">
+      {% endif %}
+        <span>Funders</span>
+      </a>
+      {% if page.url == '/become_involved.html' %}
+        <a class="hd-Nav_Link  is-Selected" href="{{site.baseurl}}/become_involved.html">
+      {% else %}
+        <a class="hd-Nav_Link" href="{{site.baseurl}}/become_involved.html">
+      {% endif %}
+          <span>Get Involved</span>
+      </a>
+      {% if page.url == '/alumni.html' %}
+        <a class="hd-Nav_Link  is-Selected" href="{{site.baseurl}}/alumni.html">
+      {% else %}
+        <a class="hd-Nav_Link" href="{{site.baseurl}}/alumni.html">
+      {% endif %}
+          <span>Alumni</span>
+      </a>
+      {% if page.url == '/about.html' %}
+        <a class="hd-Nav_Link  is-Selected" href="{{site.baseurl}}/about.html">
+      {% else %}
+        <a class="hd-Nav_Link" href="{{site.baseurl}}/about.html">
+      {% endif %}
+          <span>About</span>
+      </a>
+      {% if page.url == '/media.html' %}
+        <a class="hd-Nav_Link  is-Selected" href="{{site.baseurl}}/media.html">
+      {% else %}
+        <a class="hd-Nav_Link" href="{{site.baseurl}}/media.html">
+      {% endif %}
+          <span>Media</span>
+      </a>
+      <a class="hd-Nav_Link  hd-Nav_LinkCta" href="https://foundation.uc.edu/donate?id=693a5ba0-791b-4c01-9b41-0f506f4f8a02">
+          <span>Donate Now</span>
+      </a>
+    </nav>
+
+  </div><!--  /.hd-WrapperFixed -->
+</header>

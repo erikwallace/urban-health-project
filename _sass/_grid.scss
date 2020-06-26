@@ -1,0 +1,196 @@
+$susy: (
+  columns: 12,
+  container: $max-width,
+  gutters: 1/2, // space between elements (can be fractions 1/3 or whole numbers)
+  global-box-sizing: border-box, // content-box | border-box (affects inside/inside-static)
+);
+
+
+
+// STRUCTURE FOR HOMEPAGE - INTRO AND NEWS
+
+.gd-IntroWrapper {
+  // border:1px solid goldenrod;
+
+  @include clearfix;
+  padding: 0 $pad-sm;
+
+  @include media-query($bp-md) {
+    padding: 0 $pad-md
+  }
+
+  @include media-query($bp-lg) {
+    padding: 0 $pad-lg
+  }
+
+}
+
+.gd-Intro {
+  margin-bottom: 32px; // Extra space added when the intro and news are stacked
+  padding-top: 32px;
+  width: 100%;
+
+  @include media-query($bp-md) {
+    @include span(8 of 12);
+    margin-bottom: 0;
+  }
+
+}
+
+.gd-UpdatesNews {
+  padding-top: 32px;
+  width: 100%;
+
+  @include media-query($bp-md) {
+    @include span(4 of 12 last);
+  }
+
+  h4 {
+    padding: 0 0 8px 0;
+  }
+
+}
+
+
+
+// STRUCTURE FOR FEATURES
+
+.fe-Wrapper {
+  @include clearfix;
+  padding: 0 $pad-sm;
+
+  @include media-query($bp-md) {
+    padding: 0 $pad-md
+  }
+
+  @include media-query($bp-lg) {
+    padding: 0 $pad-lg
+  }
+
+}
+
+  .fe-Item_WhoServe,
+  .fe-Item_SupportMatters {
+    width: 100%;
+
+    @include media-query($bp-md) {
+      @include span(4 of 12);
+    }
+
+  }
+
+  .fe-Item_ReflectionExperience {
+    width: 100%;
+
+    @include media-query($bp-md) {
+      @include span(4 of 12 last);
+    }
+
+  }
+
+
+
+// STRUCTURE FOR FOOTER
+
+.ft-WrapperFixed {
+  @include clearfix;
+
+  @include media-query($bp-md) {
+    padding: 0 $pad-md
+  }
+
+  @include media-query($bp-lg) {
+    padding: 0 $pad-lg
+  }
+
+}
+
+  .ft-Copyright {
+    width: 100%;
+
+    @include media-query($bp-md) {
+      @include span(3 of 12);
+    }
+
+  }
+
+  .ft-Links {
+    width: 100%;
+
+    @include media-query($bp-md) {
+      @include span(9 of 12 last);
+    }
+
+  }
+
+
+/* Alumni page navigation */
+.gd-AlumniWrapper {
+  @include clearfix;
+}
+
+.gd-AlumniContent {
+  width: 100%;
+
+  @include media-query($bp-md) {
+    @include span(8 of 12);
+  }
+
+}
+
+.gd-AlumniNav {
+  width: 100%;
+
+  @include media-query($bp-md) {
+    @include span(4 of 12 last);
+  }
+
+}
+
+
+/* Site description contacnt info */
+.gd-SiteWrapper {
+  @include clearfix;
+}
+
+.gd-SiteContent {
+  width: 100%;
+
+  @include media-query($bp-md) {
+    @include span(7 of 12);
+  }
+
+}
+
+.gd-SiteContactInfo {
+  width: 100%;
+
+  @include media-query($bp-md) {
+    @include span(5 of 12 last);
+  }
+
+}
+
+
+/* Site description contacnt info */
+.gd-ContactWrapper {
+  @include clearfix;
+}
+
+.gd-ContactContent {
+  width: 100%;
+
+  @include media-query($bp-md) {
+    @include span(6 of 12);
+  }
+
+}
+
+.gd-ContactMap {
+  width: 100%;
+
+  @include media-query($bp-md) {
+    @include span(6 of 12 last);
+  }
+
+}

@@ -1,0 +1,56 @@
+/**
+ * BUTTONS
+ */
+
+.btn {  
+  @include btn-bg-states(#e78228);
+   /* Firefox background-image override */
+  background-image: none;
+  border-radius: 6px; /* optional */
+  border-style: none;
+  padding: 10px 16px;  /* optional */
+  text-decoration: none;
+  
+  /* Webkit / Chrome Specific CSS to remove tap highlight color */
+  -webkit-tap-highlight-color: transparent;
+  
+  /* Prevent button text being selected on long presses */
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  
+}
+
+  /* Firefox Specific CSS to the default focus ring */  
+  .btn::-moz-focus-inner {
+    border: 0;
+  }
+
+.btn:focus {
+  /* The outline parameter surpresses the border color / outline when focused */
+  outline: 0;
+}
+
+.btn-primary {
+  color: #fff;
+  display: inline-block;
+  font-family: $sans-font-family;
+  font-weight: 400;
+  letter-spacing: 1.5px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.6);
+  text-transform: uppercase;
+
+  &:hover {
+    color: #fff;
+  }
+  
+  &:active {
+    color: #fff;
+  }
+  
+  &:focus {
+    color: #fff;
+  }
+
+}

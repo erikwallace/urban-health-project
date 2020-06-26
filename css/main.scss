@@ -1,0 +1,210 @@
+---
+# This is the Front Matter
+---
+@charset "UTF-8";
+
+/*======================================================
+  $TABLE OF CONTENTS
+ =======================================================
+ *
+ * $VARIABLES
+ * $MIXINS
+ * $FUNCTIONS
+ * $IMPORTS
+ * $STYLESHEET RULES
+ */
+
+
+
+/*======================================================
+  $VARIABLES
+ ======================================================*/
+
+/*
+ * TYPOGRAPHY
+ */
+$base-font-family: 'Merriweather', serif;
+$sans-font-family: 'Oswald', sans-serif;
+$base-font-size: 16; // Default
+$base-font-weight: 400;
+$base-line-height: 1.4; // Keep unitless
+$letter-spacing-sm: 1px;
+$letter-spacing-md: 2px;
+
+
+/*
+ * SPACING
+ */
+$spacing-unit:     30px;
+$pad-sm:           12px;
+$pad-md:           20px;
+$pad-lg:           30px;
+
+
+/*
+ * COLORS
+ */
+$color-base-text:       #555;
+$color-link:       #3879B6;
+$color-background: #ffffff;
+$color-brand:      #2c3e50;
+$color-muted:      #999;
+$color-border:     #ccc;
+
+
+/*
+ * BUTTONS
+ */
+$btn-base-color: #e78228;
+
+$opacity-hover:    0.5;
+
+// Width of the content area 1330px + 60px padding
+$content-width:    1390px;
+
+// $on-palm:          600px;
+// $on-laptop:        800px;
+
+
+// Max width of the layout
+$max-width: 1330px;
+
+
+/*
+ * BREAKPOINT
+ */
+$bp-sm: 420px;
+$bp-md: 720px;
+$bp-lg: 1100px;
+
+
+
+/*======================================================
+  $MIXINS
+ ======================================================*/
+
+/* Use media queries like this:
+ * @include media-query($on-palm) {
+ *  ...
+ * }
+ */
+
+@mixin media-query($device) {
+    @media screen and (min-width: $device) {
+        @content;
+    }
+}
+
+
+
+/*
+ * Sass map to generate the right media query
+ */
+
+@mixin font-size($fs-map, $fs-breakpoints: $breakpoints) {
+  @each $fs-breakpoint, $fs-font-size in $fs-map {
+    @if $fs-breakpoint == null {
+      @include make-font-size($fs-font-size);
+    }
+    @else {
+      // If $fs-font-size is a key that exists in
+      // $fs-breakpoints, use the value
+      @if map-has-key($fs-breakpoints, $fs-breakpoint) {
+        $fs-breakpoint: map-get($fs-breakpoints, $fs-breakpoint);
+      }
+      @media screen and (min-width: $fs-breakpoint) {
+        @include make-font-size($fs-font-size);
+      }
+    }
+  }
+}
+
+
+
+/*
+ * Utility function for mixin font-size
+ */
+
+@mixin make-font-size($fs-font-size) {
+  // If $fs-font-size is a list, include
+  // both font-size and line-height
+  @if type-of($fs-font-size) == "list" {
+    font-size: nth($fs-font-size, 1);
+    @if (length($fs-font-size) > 1) {
+      line-height: nth($fs-font-size, 2);
+    }
+  }
+  @else {
+    font-size: $fs-font-size;
+  }
+}
+
+
+
+/*
+ * Button color mixin to create button states from a single value
+ */
+@mixin btn-bg-states($btn-base-color) {
+  background: $btn-base-color;
+  
+  &:hover {
+    background:darken($btn-base-color, 10%);
+    transition: all 0.3s ease;
+  }
+  
+  &:active {
+    background:darken($btn-base-color, 15%);
+  }
+  
+  &:focus {
+    background:darken($btn-base-color, 20%);
+  }
+  
+}
+
+
+
+/*======================================================
+  $FUNCTIONS
+ ======================================================*/
+
+/* Convert pixels to EMs:
+ * example: font-size: em(16);
+ */
+
+@function em($fn-pixels, $fn-context: $base-font-size) {
+  @return #{$fn-pixels/$fn-context}em
+}
+
+
+
+/*======================================================
+  $IMPORTS
+ ======================================================*/
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import "susy";
+@import "base";
+@import "buttons";
+@import "grid";
+@import "features";
+@import "footer";
+@import "header";
+@import "layout";
+@import "lists";
+@import "mainnav";
+@import "objects";
+@import "typography";
+
+
+
+/*======================================================
+  $STYLESHEET RULES
+ ======================================================*/
+
+/* Notes from: http://www.ackmanndickenson.com/2013/08/a-sass-style-guide/
+ *
+ * 01 :: Order of declarations for each style: @extend, @include, regular properties organized by alphabet
+ * 02 :: Avoid using IDs for anything but Javascript "js-"
+ * 03 :: Limit nesting styles where possible
+ */

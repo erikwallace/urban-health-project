@@ -1,0 +1,78 @@
+
+/**
+ * FOOTER
+ */
+.ft-WrapperFlex {
+    background-color: $color-brand;
+    border-top: 3px solid $color-link;
+    margin-top: 40px;
+    padding: 12px 0;
+}
+
+.ft-WrapperFixed {
+  color: $color-muted;
+  padding: 8px $pad-sm;
+
+  @include media-query($bp-md) {
+    padding: 10px $pad-md
+  }
+
+  @include media-query($bp-lg) {
+    padding: 10px $pad-lg
+  }
+
+}
+
+.ft-Copyright {
+  text-align: center;
+
+  @include media-query($bp-md) {
+    text-align: left;
+  }
+
+  /* Add space between the copyright and contact info, cut normal space (16px) by 3/4 */
+  p {
+    padding-bottom: 4px;
+  }
+
+}
+
+.ft-Copyright,
+.ft-Links {
+  @extend .sz-TypeSm;
+}
+
+.ft-Links {
+  font-family: $sans-font-family;
+  text-align: center;
+
+  @include media-query($bp-md) {
+    text-align: right;
+  }
+
+  /* On smaller screens add more vertical space so links are easier to press */
+  a {
+    color: #fff;
+    display: inline-block;
+    letter-spacing: $letter-spacing-sm;
+    padding: 8px;
+    text-decoration: none;
+    text-transform: uppercase;
+
+    @include media-query($bp-md) {
+      padding: 4px 12px;
+    }
+
+  }
+
+  a:hover {
+    color: #fff;
+    opacity: 0.5;
+  }
+
+  a.ft-LinkCta {
+    color: #e78228;
+    font-weight: bold;
+  }
+
+}

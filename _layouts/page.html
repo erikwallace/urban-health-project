@@ -1,0 +1,20 @@
+---
+#layout: compress
+---
+
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="{{ page.class }}">
+    {% include header.html %}
+    
+    <div class="pg-Wrapper">
+        {{ content }}
+    </div><!--  /.pg-Wrapper -->
+
+    {% include footer.html %}
+  </body>
+
+</html>

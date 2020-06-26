@@ -1,0 +1,115 @@
+---
+description: Urban Health Project interns work all over Greater Cincinnati and the tri-state area
+layout: page
+title: Site, {{page.site_name}}
+class: tm-Site
+---
+
+<div class="gd-SiteWrapper">
+
+  <div class="ob-Breadcrumb">
+    <span>&lt;</span>
+    <a class="ob-Breadcrumb" href="{{site.baseurl}}/sites.html">
+      Go Back to All Sites
+    </a>
+  </div>
+
+  <h1>{{page.site_name}}</h1>
+
+  <article class="gd-SiteContent">
+
+    {% if page.site_description == null %}
+      {% else %}
+        <h2 class="pg-Subheading">Site Description</h2>
+        {{page.site_description}}
+    {% endif %}
+
+    <hr class="rl-FadeEdges" />
+
+    {% if page.job_description == null %}
+      {% else %}
+        <h2 class="pg-Subheading">Job Description</h2>
+        <p>The intern will...</p>
+        <ul>
+          {{page.job_description}}
+        </ul>
+    {% endif %}
+
+    <hr class="rl-FadeEdges" />
+
+    {% if page.experience_summaries == null %}
+      {% else %}
+        <h2 class="pg-Subheading">Intern Experience Summaries</h2>
+        <ul class="ls-NoBullet">
+          {{page.experience_summaries}}
+        </ul>
+    {% endif %}
+
+    {% if page.additional_info == null %}
+      {% else %}
+          {{page.additional_info}}
+    {% endif %}
+
+  </article>
+
+  <div class="ob-SidebarBox  gd-SiteContactInfo">
+    <h4>Contact Info</h4>
+    <hr class="rl-FadeEdges" />
+
+    <p>
+      {% if page.address_one == null %}
+      {% else %}
+        {{page.address_one}}<br />
+      {% endif %}
+
+      {% if page.address_two == null %}
+      {% else %}
+        {{page.address_two}}<br />
+      {% endif %}
+
+      {% if page.address_three == null %}
+      {% else %}
+        {{page.address_three}}<br />
+      {% endif %}
+
+      {{page.city_state_zip}}
+    </p>
+
+    {% if page.phone == null %}
+    {% else %}
+      <p>
+        <span class="muted"><em>Phone:</em></span> {{page.phone}}
+      </p>
+    {% endif %}
+
+    {% if page.fax == null %}
+    {% else %}
+      <p>
+        <span class="muted"><em>Fax:</em></span> {{page.fax}}
+      </p>
+    {% endif %}
+
+    {% if page.web_link == null %}
+    {% else %}
+      <p>
+        <a href="{{page.web_link}}" target="_blank">View Website</a>
+      </p>
+    {% endif %}
+
+    {% if page.site_supervisor == null %}
+    {% else %}
+      <p>
+        <span class="muted"><em>Site Supervisor:</em></span> {{page.site_supervisor}}
+      </p>
+    {% endif %}
+
+    {% if page.google_map == null %}
+    {% else %}
+      <div class="ob-SiteGoogleMap">
+        {{page.google_map}}
+      </div>
+    {% endif %}
+    
+  </div>
+
+</div>
