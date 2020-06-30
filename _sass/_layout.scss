@@ -1,5 +1,8 @@
 .pg-Wrapper {
+    max-width: $max-width;
+    margin: 0 auto;
     padding: 24px $pad-sm 12px;
+    width: 100%;
   
     @include media-query($bp-md) {
         padding: 30px $pad-md 15px;
