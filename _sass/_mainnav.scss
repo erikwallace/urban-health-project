@@ -13,7 +13,7 @@
   text-align: center;
   // border:1px solid goldenrod;
   
-  @include media-query(1200px) {
+  @include media-query(1250px) {
     border-top: 0;
     display: inline-block;
     float: right;
@@ -34,7 +34,7 @@ a.hd-Nav_Link {
   text-decoration: none;
   text-transform: uppercase;
 
-  @include media-query(1200px) {
+  @include media-query(1250px) {
     font-size: 13px;
     letter-spacing: $letter-spacing-md;
   }

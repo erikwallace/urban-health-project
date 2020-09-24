@@ -10,20 +10,19 @@
   job_description: <li>Plan and run educational workshops for children</li>
       <li>Assist in clerical work (answering the phone, monitoring the door, running the desk).</li>
       <li>Observe both the intake and exit processes.</li>
-      <li>Take part in the Kidz Zone program that teaches kids about appropriate behaviors and coping mechanisms for dealing with the stress of homelessness.</li>
-      <li>Plan events and chaperone field trips.</li>
       <li>Observe case meetings to gain a greater appreciation for social service work.</li>
       <li>Develop meaningful relationships with women and children as a positive role model.</li>
-  experience_summaries: <li><a href="bethany_house_2019.html">Gina Livecchi, Summer 2019</a></li>
-      <li><a href="bethany_house_2018_01.html">Jasmine Prince, Summer 2018</a></li>
-      <li><a href="bethany_house_2018_02.html">Rachel Podell, Summer 2018</a></li><li><a href="bethany_house_2017_01.html">Amanda Beyer, Summer 2017</a></li>
-      <li><a href="bethany_house_2017_02.html">Colleen  O'Neil, Summer 2017</a></li>
-      <li>Shannon Clay, Summer 2016</li>
-      <li><a href="bethany_house_2014.html">Caroline Couch, Summer 2014</a></li>
-      <li><a href="bethany_house_2013.html">Megan Midkiff, Summer 2013</a></li>
-      <li><a href="bethany_house_2012.html">Amy Baumann, Summer 2012</a></li>
-      <li><a href="bethany_house_2011.html">Samantha Kennis, Summer 2011</a></li>
-      <li><a href="bethany_house_2010.html">Jorden Arnett, Summer 2010</a></li>
+  experience_summaries: <li><a href="bethany_house_2020.html">Maura Kopchak, Summer 2020</a></li>
+      # <li><a href="bethany_house_2019.html">Gina Livecchi, Summer 2019</a></li>
+      # <li><a href="bethany_house_2018_01.html">Jasmine Prince, Summer 2018</a></li>
+      # <li><a href="bethany_house_2018_02.html">Rachel Podell, Summer 2018</a></li><li><a href="bethany_house_2017_01.html">Amanda Beyer, Summer 2017</a></li>
+      # <li><a href="bethany_house_2017_02.html">Colleen  O'Neil, Summer 2017</a></li>
+      # <li>Shannon Clay, Summer 2016</li>
+      # <li><a href="bethany_house_2014.html">Caroline Couch, Summer 2014</a></li>
+      # <li><a href="bethany_house_2013.html">Megan Midkiff, Summer 2013</a></li>
+      # <li><a href="bethany_house_2012.html">Amy Baumann, Summer 2012</a></li>
+      # <li><a href="bethany_house_2011.html">Samantha Kennis, Summer 2011</a></li>
+      # <li><a href="bethany_house_2010.html">Jorden Arnett, Summer 2010</a></li>
       # <li><a href="bethany_house_2009.html">Manisha Patel, Summer 2009</a></li>
       # <li><a href="bethany_house_2008.html">Yetnayet Zewge, Summer 2008</a></li>
       # <li><a href="bethany_house_2006.html">Candace Leigh, Summer 2006</a></li>
@@ -32,7 +31,7 @@
 # 
 #   
 - full_name: breast_cervical_care
-  site_name: Breast and Cervical Cancer Project
+  site_name: Former Site&#58; Breast and Cervical Cancer Project
   site_description: <p>The Breast and Cervical Cancer Project (BCCP) provides medical services for uninsured low-income women in the Greater Cincinnati area. Funded by a grant from the CDC, the BCCP offers free Pap smears, pelvic exams, clinical breast exams, and mammograms for eligible women. The criteria includes women who live in households with incomes less than 200% of the poverty level; have no insurance; and are 40 years of age or older for Pap tests, pelvic exams, and clinical breast exams and 50 years of age or older for mammograms. The BCCP also strives to educate woman about different factors that affect their health and the importance of continued and regular health care. The Urban Health Project intern helps to fulfill the community-oriented aims of the organization by providing outreach and education.</p>
   address_one: The Holmes Hospital
   address_two: 200 Albert Sabin Way
@@ -54,13 +53,14 @@
       <li>Participate in regular meetings with the site supervisor to discuss progress.</li>
       <li>Primarily work from home.</li>
       <li>Have flexible hours with a schedule dependent upon when site visits or educational programs are scheduled.</li>
-  experience_summaries: <li><a href="breast_cervical_care_2016.html">Zoe Walters, Summer 2016</a></li>
-      <li><a href="breast_cervical_care_2015.html">Teresa Whitaker, Summer 2015</a></li>
-      <li><a href="breast_cervical_care_2014.html">Melanie Wilson, Summer 2014</a></li>
-      <li><a href="breast_cervical_care_2013.html">Alexandra Kreiselman, Summer 2013</a></li>
-      <li><a href="breast_cervical_care_2012.html">Jess Dreicer, Summer 2012</a></li>
-      <li><a href="breast_cervical_care_2011.html">Avante Roberts, Summer 2011</a></li>
-      <li><a href="breast_cervical_care_2010.html">Emily Gay, Summer 2010</a></li>
+  experience_summaries: 
+      # <li><a href="breast_cervical_care_2016.html">Zoe Walters, Summer 2016</a></li>
+      # <li><a href="breast_cervical_care_2015.html">Teresa Whitaker, Summer 2015</a></li>
+      # <li><a href="breast_cervical_care_2014.html">Melanie Wilson, Summer 2014</a></li>
+      # <li><a href="breast_cervical_care_2013.html">Alexandra Kreiselman, Summer 2013</a></li>
+      # <li><a href="breast_cervical_care_2012.html">Jess Dreicer, Summer 2012</a></li>
+      # <li><a href="breast_cervical_care_2011.html">Avante Roberts, Summer 2011</a></li>
+      # <li><a href="breast_cervical_care_2010.html">Emily Gay, Summer 2010</a></li>
       # <li><a href="breast_cervical_care_2009.html">Megan Albertz, Summer 2009</a></li>
       # <li><a href="breast_cervical_care_2008.html">Becky Huang, Summer 2008</a></li>
       # <li><a href="breast_cervical_care_2007.html">Pamela Stemen, Summer 2007</a></li>
@@ -94,17 +94,18 @@
     <li>Teach or assist with job readiness or English as a Second Language classes</li>
     <li>Prepare homes for new client arrivals</li>
 
-  experience_summaries: <li><a href="social_services_2019.html">Hassan Abdullahi, Summer 2019</a></li>
-    <li><a href="social_services_2018.html">Basil	Jafri, Summer 2018</a></li>
-    <li><a href="social_services_2017.html">Jessica Smith, Summer 2017</a></li>
-    <li><a href="social_services_2016.html">Grace Lambert, Summer 2016</a></li>
-    <li><a href="social_services_2015.html">Juline Asamoah, Summer 2015</a></li>
-    <li><a href="social_services_2014.html">Brandon Bungo, Summer 2014</a></li>
-    <li><a href="social_services_2013_01.html">Matthew Ball, Summer 2013</a></li>
-    <li><a href="social_services_2013_02.html">Sara Sadat-Hossieny, Summer 2013</a></li>
-    <li><a href="social_services_2012.html">Allison Ng, Summer 2012</a></li>
-    <li><a href="social_services_2011.html">Jeff Harmon, Summer 2011</a></li>
-    <li><a href="social_services_2010.html">Ayesha Hasan, Summer 2010</a></li>
+  experience_summaries: 
+    # <li><a href="social_services_2019.html">Hassan Abdullahi, Summer 2019</a></li>
+    # <li><a href="social_services_2018.html">Basil Jafri, Summer 2018</a></li>
+    # <li><a href="social_services_2017.html">Jessica Smith, Summer 2017</a></li>
+    # <li><a href="social_services_2016.html">Grace Lambert, Summer 2016</a></li>
+    # <li><a href="social_services_2015.html">Juline Asamoah, Summer 2015</a></li>
+    # <li><a href="social_services_2014.html">Brandon Bungo, Summer 2014</a></li>
+    # <li><a href="social_services_2013_01.html">Matthew Ball, Summer 2013</a></li>
+    # <li><a href="social_services_2013_02.html">Sara Sadat-Hossieny, Summer 2013</a></li>
+    # <li><a href="social_services_2012.html">Allison Ng, Summer 2012</a></li>
+    # <li><a href="social_services_2011.html">Jeff Harmon, Summer 2011</a></li>
+    # <li><a href="social_services_2010.html">Ayesha Hasan, Summer 2010</a></li>
     # <li><a href="social_services_2009.html">Robert Hobohm, Summer 2009</a></li>
     # <li><a href="social_services_2008.html">Josh Kuethe, Summer 2008</a></li>
     # <li><a href="social_services_2007.html">Ben Kuritzky, Summer 2007</a></li>
@@ -123,7 +124,8 @@
   job_description: <li>Participate in Cincinnati public Health research</li>
     <li>Make calls to community members to participate in Do Right campaign</li>
     <li>Participate and help with community events</li>
-  experience_summaries: <li><a href="center_for_closing_the_health_gap_2019.html">Jacqueline Dowling, Summer 2019</a></li>
+  experience_summaries: <li><a href="https://youtu.be/TrSLJ_72ycA">Watch to hear more about Emma's summer experience</a></li>
+    # <li><a href="center_for_closing_the_health_gap_2019.html">Jacqueline Dowling, Summer 2019</a></li>
 #
 # 
 #   
@@ -134,22 +136,23 @@
   city_state_zip: Cincinnati, OH 45214
   phone: 513-381-6672
   web_link: https://www.catsober.org/
-  site_supervisor: Dr. Deborah Frankowski
+  site_supervisor: Laura Schatzman APRN, FNP-C, BSN
   google_map: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3095.8293052550503!2d-84.53208458464337!3d39.11035617953834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b40263b15b2b%3A0x98adbf82ea5c4a7c!2s830+Ezzard+Charles+Dr%2C+Cincinnati%2C+OH+45214!5e0!3m2!1sen!2sus!4v1463444671897" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
   job_description: <li>Attend small group meetings with patients</li>
     <li>Perform Quality Improvement research, such as analyzing data to identify trends in the patient population</li>
     <li>Work with doctors to observe the physician&#39;s role in treating addiction</li>
     <li>Work on projects to aid in CAT&#39;s expansion of services</li>
-  experience_summaries: <li><a href="chemical_addictions_center_2018.html">Connor	Schroeder, Summer 2018</a></li>
-    <li><a href="chemical_addictions_center_2017.html">Cody VanLinge, Summer 2017</a></li>
-    <li><a href="chemical_addictions_center_2016_01.html">Joe Weethee, Summer 2016</a></li>
-    <li><a href="chemical_addictions_center_2016_02.html">Nithin Banda, Summer 2016</a></li>
-    <li><a href="chemical_addictions_center_2015_01.html">Adam Coey, Summer 2015</a></li>
-    <li><a href="chemical_addictions_center_2015_02.html">Ben McGlothlin, Summer 2015</a></li>
-    <li><a href="chemical_addictions_center_2014.html">Mollie Sands, Summer 2014</a></li>
-    <li><a href="chemical_addictions_center_2013.html">Richard Yeager, Summer 2013</a></li>
-    <li><a href="chemical_addictions_center_2012.html">Wesley Baas, Summer 2012</a></li>
-    <li><a href="chemical_addictions_center_2011.html">Rob Thompson, Summer 2011</a></li>
+  experience_summaries: <li><a href="chemical_addictions_center_2020.html">Joel Facer, Summer 2020</a></li>
+# <li><a href="chemical_addictions_center_2018.html">Connor Schroeder, Summer 2018</a></li>
+# <li><a href="chemical_addictions_center_2017.html">Cody VanLinge, Summer 2017</a></li>
+# <li><a href="chemical_addictions_center_2016_01.html">Joe Weethee, Summer 2016</a></li>
+# <li><a href="chemical_addictions_center_2016_02.html">Nithin Banda, Summer 2016</a></li>
+# <li><a href="chemical_addictions_center_2015_01.html">Adam Coey, Summer 2015</a></li>
+# <li><a href="chemical_addictions_center_2015_02.html">Ben McGlothlin, Summer 2015</a></li>
+# <li><a href="chemical_addictions_center_2014.html">Mollie Sands, Summer 2014</a></li>
+# <li><a href="chemical_addictions_center_2013.html">Richard Yeager, Summer 2013</a></li>
+# <li><a href="chemical_addictions_center_2012.html">Wesley Baas, Summer 2012</a></li>
+# <li><a href="chemical_addictions_center_2011.html">Rob Thompson, Summer 2011</a></li>
 #
 # 
 #   
@@ -169,9 +172,10 @@
     <li>Have the option to shadow medical and nursing staff during the three weekly pop-up clinics at the shelter.</li>
     <li>Complete a project relating either to research on the health outcomes of residents or to a physical project relating to health education and wellness for residents.</li>
     <li>Work from 8:00 AM - 4:00 PM, Monday through Friday with flexible hours available.</li>
-  experience_summaries: <li><a href="city_gospel_mission_2018.html">Dylan	Sexton, Summer 2018</a></li>
-    <li><a href="city_gospel_mission_2017.html">Evan Onusko, Summer 2017</a></li>
-    <li><a href="city_gospel_mission_2016.html">Joe Weethee, Summer 2016</a></li>
+  experience_summaries: <li><a href="https://youtu.be/pOUR-EbnEFI">Watch to hear more about Matt's summer experience</a></li>
+    # <li><a href="city_gospel_mission_2018.html">Dylan Sexton, Summer 2018</a></li>
+    # <li><a href="city_gospel_mission_2017.html">Evan Onusko, Summer 2017</a></li>
+    # <li><a href="city_gospel_mission_2016.html">Joe Weethee, Summer 2016</a></li>
 #
 # 
 #   
@@ -193,20 +197,22 @@
     <li>Work Monday through Friday, 9&#58;00 a.m. to 5&#58;30 p.m..</li>
     </ul>
     <p><em>Note&#58; Priority given to applicants that are bilingual in Spanish, have prior health clinic experience and/or have a desire to do health missions.  This site welcomes interns of any religious denomination.</em></p>
-  experience_summaries: <li><a href="crossroad_health_2019_01.html">Alexander Drinnan, Summer 2019</a></li>
-    <li><a href="crossroad_health_2019_02.html">Kati Woodward, Summer 2019</a></li>
-    <li><a href="crossroad_health_2018_01.html">Shawn Krishnan, Summer 2018</a></li>
-    <li><a href="crossroad_health_2018_02.html">Amanda Ojugbeli, Summer 2018</a></li>
-    <li><a href="crossroad_health_2017_01.html">Brad Pearson, Summer 2017</a></li>
-    <li><a href="crossroad_health_2017_02.html">George Adly, Summer 2017</a></li>
-    <li><a href="crossroad_health_2016_01.html">Christopher Kanner, Summer 2016</a></li>
-    <li><a href="crossroad_health_2016_02.html">Salima Sewani, Summer 2016</a></li>
-    <li><a href="crossroad_health_2015.html">Erin Garfield, Summer 2015</a></li>
-    <li><a href="crossroad_health_2014.html">Christopher Morriss, Summer 2014</a></li>
-    <li><a href="crossroad_health_2013.html">Zach Graham, Summer 2013</a></li>
-    <li><a href="crossroad_health_2012.html">Thomas Damhoff, Summer 2012</a></li>
-    <li><a href="crossroad_health_2011.html">David Calderhead, Summer 2011</a></li>
-    <li><a href="crossroad_health_2010.html">Branden Kowel, Summer 2010</a></li>
+  experience_summaries: <li><a href="https://youtu.be/HwpFZQnleac">Watch to hear more about Ashley's summer experience</a></li>
+    <li><a href="crossroad_health_2020.html">Alex Gillotte, Summer 2020</a></li>
+    # <li><a href="crossroad_health_2019_01.html">Alexander Drinnan, Summer 2019</a></li>
+    # <li><a href="crossroad_health_2019_02.html">Kati Woodward, Summer 2019</a></li>
+    # <li><a href="crossroad_health_2018_01.html">Shawn Krishnan, Summer 2018</a></li>
+    # <li><a href="crossroad_health_2018_02.html">Amanda Ojugbeli, Summer 2018</a></li>
+    # <li><a href="crossroad_health_2017_01.html">Brad Pearson, Summer 2017</a></li>
+    # <li><a href="crossroad_health_2017_02.html">George Adly, Summer 2017</a></li>
+    # <li><a href="crossroad_health_2016_01.html">Christopher Kanner, Summer 2016</a></li>
+    # <li><a href="crossroad_health_2016_02.html">Salima Sewani, Summer 2016</a></li>
+    # <li><a href="crossroad_health_2015.html">Erin Garfield, Summer 2015</a></li>
+    # <li><a href="crossroad_health_2014.html">Christopher Morriss, Summer 2014</a></li>
+    # <li><a href="crossroad_health_2013.html">Zach Graham, Summer 2013</a></li>
+    # <li><a href="crossroad_health_2012.html">Thomas Damhoff, Summer 2012</a></li>
+    # <li><a href="crossroad_health_2011.html">David Calderhead, Summer 2011</a></li>
+    # <li><a href="crossroad_health_2010.html">Branden Kowel, Summer 2010</a></li>
     # <li><a href="crossroad_health_2009.html">Zack Thurman, Summer 2009</a></li>
     # <li><a href="crossroad_health_2008.html">Jessica Wynalek, Summer 2008</a></li>
     # <li><a href="crossroad_health_2007.html">Steph Dawes, Summer 2007</a></li>
@@ -226,35 +232,24 @@
   google_map: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3094.751619915624!2d-84.60786544928557!3d39.13488317943423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b58aae5387e1%3A0xe4612a3fa67f72e0!2s2859+Boudinot+Ave+%23107%2C+Cincinnati%2C+OH+45238!5e0!3m2!1sen!2sus!4v1463445300860" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
   job_description: <li>Begin to understand the complex issues facing the underprivileged (e.g., finances, nutrition, home environment, social services, access to health care).</li>
     <li>Gain an increased awareness of resources available to providers who care for urban, impoverished populations.</li>
-    <li>Shadow medical providers one or two half-days a week, observing medical care.</li>
-    <li>Interview the Medical Director and Clinical Coordinator about the assets/needs of their population and the role of spirituality in providing health care.</li>
-    <li>Interview one or more of the office staff to get their perspective on how they make a difference as primary care providers, how their patients deal with poverty, and how the Crossroad staff members work as a team.</li>
-    <li>If bilingual in Spanish, interpret for Latino patients during the visit. (Individuals with Hispanic backgrounds comprise approximately 50% of the patient population.)</li>
-    <li>Prepare patients to see the medical providers.</li>
-    <ul>
-    <li>Record blood pressures, temperatures, and weights/heights.</li>
-    <li>Complete vision and hearing screenings.</li>
-    <li>Obtain the patients&#39; chief complaints and medication lists.</li>
-    <li>May learn to dipstick urine and run rapid strep tests.</li>
+    <li>Opportunities to shadow by asking medical providers.
+    <li>Administer a survey designed to assess the social determinants of health for the Medicare/Medicaid patients seen at CHC.</li>
+    <li>If bilingual in Spanish, interpret for patients during the visit. (Individuals with Hispanic backgrounds comprise approximately 50% of the patient population.)</li>
+    <li>Work on specific summer projects with the Clinical Coo>dinator, such as data collection/analysis on children with anemia, lead poisoning, and asthma, to improve quality of outcomes and care.</li>
+    <li>Work Monday through Friday, 9:00 a.m. to 5:30 p.m.</li>
     </ul>
-    <li>Hold children for lab work and vaccinations.</li>
-    <li>Complete lab requisition forms.</li>
-    <li>File/pull charts along with completing miscellaneous typing and mailing tasks.</li>
-    <li>Work on specific summer projects with the Clinical Coordinator, such as data collection/analysis on children with anemia, lead poisoning, and asthma, to improve quality of outcomes and care.</li>
-    <li>Participate in the Over-the-Rhine Festival and Health Fair the first Saturday in August.</li>
-    <li>Work Monday through Friday, 9&#58;00 a.m. to 5&#58;30 p.m..</li>
-    </ul>
-    <p><em>Note&#58; Priority given to applicants that are bilingual in Spanish, have prior health clinic experience and/or have a desire to do health missions.  This site welcomes interns of any religious denomination.</em></p>
-  experience_summaries: <li><a href="crossroad_health_pediatrics_2016.html">Christina Lee, Summer 2016</a></li>
-    <li><a href="crossroad_health_pediatrics_2015.html">Alex Schmitt, Summer 2015</a></li>
-    <li><a href="crossroad_health_pediatrics_2013.html">Amy Dutko, Summer 2013</a></li>
-    <li><a href="crossroad_health_pediatrics_2011.html">Catherine Jin, Summer 2011</a></li>
-    <li><a href="crossroad_health_pediatrics_2010.html">Aaron Hudson, Summer 2010</a></li>
+    <p><em>Note&#58; Priority given to applicants that are bilingual in Spanish, have prior health clinic experience and/or have a desire to do health missions. This site welcomes interns of any religious denomination.</em></p>
+  experience_summaries: <li><a href="https://youtu.be/q2Y-l2Bor1g">Watch to hear more about Kyler's summer experience</a></li>
+    # <li><a href="crossroad_health_pediatrics_2016.html">Christina Lee, Summer 2016</a></li>
+    # <li><a href="crossroad_health_pediatrics_2015.html">Alex Schmitt, Summer 2015</a></li>
+    # <li><a href="crossroad_health_pediatrics_2013.html">Amy Dutko, Summer 2013</a></li>
+    # <li><a href="crossroad_health_pediatrics_2011.html">Catherine Jin, Summer 2011</a></li>
+    # <li><a href="crossroad_health_pediatrics_2010.html">Aaron Hudson, Summer 2010</a></li>
 #
 # 
 #   
 - full_name: uc_ob
-  site_name: Division of Community Women&#39;s Health
+  site_name: Former Site&#58; Division of Community Women&#39;s Health
   site_description: <p>The Division of Community Women&#39;s Health in the Department of ObGyn exists to provide excellent obstetric and gynecologic care with a focus on the needs of underserved women. As part of their approach, the Division seeks to treat women with an understanding of their unique circumstances and the larger social factors that contribute to disparities in health care. They are heavily involved in community engagement and efforts to address the social determinants of health that affect women in Cincinnati. In the past, this site has also provided an opportunity to work with Cradle Cincinnati, an organization working to address the important issue of infant mortality.</p>
   address_one: Medical Sciences Building Room 7110
   address_two: Albert Sabin Way
@@ -272,14 +267,15 @@
     <li>Shadow other members of the health care team such as social workers, nutritionists, and nurse midwives.</li>
     <li>Work 9&#58;00 a.m. to 5&#58;00 p.m. from Monday to Friday or as negotiated in advance.</li>
     <li>The intern will work at the many different sites throughout Cincinnati served by the Division of Community Women&rsquo;s Health.</li>
-  experience_summaries: <li><a href="uc_ob_2019.html">Audrey McCartney, Summer 2019</a></li>
-    <li><a href="uc_ob_2017.html">Laura Bess, Summer 2017</a></li>
-    <li><a href="uc_ob_2016.html">Neha Ray, Summer 2016</a></li>
-    <li><a href="uc_ob_2015.html">Eleni Eren, Summer 2015</a></li>
-    <li><a href="uc_ob_2014.html">Jennifer Besman, Summer 2014</a></li>
-    <li><a href="uc_ob_2013.html">Erin Armao, Summer 2013</a></li>
-    <li><a href="uc_ob_2011.html">Jennifer Treasure, Summer 2011</a></li>
-    <li><a href="uc_ob_2010.html">Meghan Brown, Summer 2010</a></li>
+  experience_summaries: 
+    # <li><a href="uc_ob_2019.html">Audrey McCartney, Summer 2019</a></li>
+    # <li><a href="uc_ob_2017.html">Laura Bess, Summer 2017</a></li>
+    # <li><a href="uc_ob_2016.html">Neha Ray, Summer 2016</a></li>
+    # <li><a href="uc_ob_2015.html">Eleni Eren, Summer 2015</a></li>
+    # <li><a href="uc_ob_2014.html">Jennifer Besman, Summer 2014</a></li>
+    # <li><a href="uc_ob_2013.html">Erin Armao, Summer 2013</a></li>
+    # <li><a href="uc_ob_2011.html">Jennifer Treasure, Summer 2011</a></li>
+    # <li><a href="uc_ob_2010.html">Meghan Brown, Summer 2010</a></li>
     # <li><a href="uc_ob_2009.html">Emily Haas, Summer 2009</a></li>
     # <li><a href="uc_ob_2008.html">Alan Wang, Summer 2008</a></li>
     # <li><a href="uc_ob_2007.html">Melissa Korb, Summer 2007</a></li>
@@ -301,18 +297,19 @@
     <li>Assist the site with program development opportunities.</li>
     <li>Opportunities to shadow the OBGYN.</li>
     <li>Participate in interprofessional collaborative education with social workers, behavioral counselors, and others.</li>
-  experience_summaries: <li><a href="first_step_home_2019.html">Bridget Watson, Summer 2019</a></li>
-    <li><a href="first_step_home_2018_01.html">Katie	Bopp, Summer 2018</a></li>
-    <li><a href="first_step_home_2018_02.html">Megan Wilson, Summer 2018</a></li>
-    <li><a href="first_step_home_2017.html">Alyssa  Lucas, Summer 2017</a></li>
-    <li><a href="first_step_home_2016.html">Rebecca Wuestefeld-Morris, Summer 2016</a></li>
-    <li><a href="first_step_home_2015.html">Ankita Sharma, Summer 2015</a></li>
-    <li><a href="first_step_home_2014.html">Puja Singh, Summer 2014</a></li>
-    <li><a href="first_step_home_2013_01.html">Karen Chao, Summer 2013</a></li>
-    <li><a href="first_step_home_2013_02.html">Corin Marshall, Summer 2013</a></li>
-    <li><a href="first_step_home_2012.html">Heather Hughes, Summer 2012</a></li>
-    <li><a href="first_step_home_2011.html">Pratima Shanbhag, Summer 2011</a></li>
-    <li><a href="first_step_home_2010.html">Seth Vensil, Summer 2010</a></li>
+  experience_summaries: <li><a href="first_step_home_2020.html">Tessa Kieser, Summer 2020</a></li>
+    # <li><a href="first_step_home_2019.html">Bridget Watson, Summer 2019</a></li>
+    # <li><a href="first_step_home_2018_01.html">Katie Bopp, Summer 2018</a></li>
+    # <li><a href="first_step_home_2018_02.html">Megan Wilson, Summer 2018</a></li>
+    # <li><a href="first_step_home_2017.html">Alyssa  Lucas, Summer 2017</a></li>
+    # <li><a href="first_step_home_2016.html">Rebecca Wuestefeld-Morris, Summer 2016</a></li>
+    # <li><a href="first_step_home_2015.html">Ankita Sharma, Summer 2015</a></li>
+    # <li><a href="first_step_home_2014.html">Puja Singh, Summer 2014</a></li>
+    # <li><a href="first_step_home_2013_01.html">Karen Chao, Summer 2013</a></li>
+    # <li><a href="first_step_home_2013_02.html">Corin Marshall, Summer 2013</a></li>
+    # <li><a href="first_step_home_2012.html">Heather Hughes, Summer 2012</a></li>
+    # <li><a href="first_step_home_2011.html">Pratima Shanbhag, Summer 2011</a></li>
+    # <li><a href="first_step_home_2010.html">Seth Vensil, Summer 2010</a></li>
   #additional_info: <p><p>In 2018, this site will include opportunities for Quality Improvement Research! Details will be coming soon.</p></p>
 #
 # 
@@ -329,8 +326,9 @@
   job_description: <li>Physician outreach, working with primary care or neurology offices to raise awareness of what the Association has to offer.</li>
     <li>Tracking which offices have relationships with the Association and how strong those relationships are.</li>
     <li>Observing services offered, such as a family care consultation with a social worker and various educational programs that are open to the public.</li>
-  experience_summaries: <li><a href="greater_cincinnati_alzheimers_association_2018_01.html">Katie Centner, Summer 2018</a></li>
-    <li><a href="greater_cincinnati_alzheimers_association_2018_02.html">Madeline	Gates, Summer 2018</a></li>
+  experience_summaries: 
+    #<li><a href="greater_cincinnati_alzheimers_association_2018_01.html">Katie Centner, Summer 2018</a></li>
+    #<li><a href="greater_cincinnati_alzheimers_association_2018_02.html">Madeline Gates, Summer 2018</a></li>
 #
 # 
 #   
@@ -351,17 +349,18 @@
     <li>Ensure that patients have transportation and know how to get to their appointments.</li>
     <li>Call patients to follow up on their appointments.</li>
     <li>Mail letters to patients who cannot be reached by phone.</li>
-    <li>Complete quality improvement projects in the Community Health Worker office.</li>
+    <li>Complete projects in the Community Health Worker office.</li>
     <li>Perform office maintenance tasks.</li>
     <li>Interpret for Spanish-speaking patients (if bilingual in Spanish).</li>
-  experience_summaries: <li><a href="price_hill_free_clinic_2019.html">Parth Patel, Summer 2019</a></li>
-    <li><a href="price_hill_free_clinic_2018.html">Adam	Darwiche, Summer 2018</a></li>
-    <li><a href="price_hill_free_clinic_2017.html">Julie Luna, Summer 2017</a></li>
-    <li><a href="price_hill_free_clinic_2016.html">Andrea Rosado, Summer 2016</a></li>
-    <li><a href="price_hill_free_clinic_2015.html">Garrett Rogers, Summer 2015</a></li>
-    <li><a href="price_hill_free_clinic_2014_01.html">Daniel Lyons, Summer 2014</a></li>
-    <li><a href="price_hill_free_clinic_2014_02.html">Geoffrey Newcomb, Summer 2014</a></li>
-    <li><a href="price_hill_free_clinic_2013.html">Viona Zhang, Summer 2013</a></li>
+  experience_summaries: <li><a href="https://youtu.be/T2Ajoxi6Iaw">Watch to hear more about Evan's summer experience</a></li>
+    # <li><a href="price_hill_free_clinic_2019.html">Parth Patel, Summer 2019</a></li>
+    # <li><a href="price_hill_free_clinic_2018.html">Adam Darwiche, Summer 2018</a></li>
+    # <li><a href="price_hill_free_clinic_2017.html">Julie Luna, Summer 2017</a></li>
+    # <li><a href="price_hill_free_clinic_2016.html">Andrea Rosado, Summer 2016</a></li>
+    # <li><a href="price_hill_free_clinic_2015.html">Garrett Rogers, Summer 2015</a></li>
+    # <li><a href="price_hill_free_clinic_2014_01.html">Daniel Lyons, Summer 2014</a></li>
+    # <li><a href="price_hill_free_clinic_2014_02.html">Geoffrey Newcomb, Summer 2014</a></li>
+    # <li><a href="price_hill_free_clinic_2013.html">Viona Zhang, Summer 2013</a></li>
   additional_info: <p><p>Soon this site will include opportunities for Quality Improvement Research! Details will be coming soon.</p></p>
 #
 # 
@@ -377,32 +376,24 @@
   site_supervisor: LaTora Thurman
   google_map: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3092.5676748342994!2d-84.42337104928397!3d39.18454797942694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841ad4ba1d0f06f%3A0x4aa44404341dfca1!2s6124+Dryden+Ave%2C+Cincinnati%2C+OH+45213!5e0!3m2!1sen!2sus!4v1463448068611" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
   job_description: <li>Gain exposure to adolescent girls who have been victims of abuse and/or have emotional and behavioral problems.</li>
-    <li>Enhance their appreciation of the challenges this population faces in terms of health and education.</li>
-    <li>Increase their understanding of mental health issues.</li>
-    <li>Acquire skills in crisis intervention and positive behavior management.</li>
-    <li>Provide care, supervision, and control of residends during  The Summer Work Program, The Garden Project.</li>
-    <li>Collaborate with the intern at the Lighthouse Youth Development Center and the boys in that program for projects such as the urban garden. The Garden Project at Lighthouse Community School, was a big portion of our responsibilities.</li>
+    <li>Provide care, supervision, and control of residents during The Summer Work Program, The Garden Project.</li>
     <li>Ensure that residents are adequately fed, clothed, disciplined, emotionally nurtured, and physically protected from harm.</li>
-    <li>Assist in implementing the individual service plans for each resident.</li>
     <li>Monitor resident interactions, model appropriate interactions, and facilitate problem solving with residents.</li>
-    <li>Ensure that the program environment is safe and clean at all times.</li>
-    <li>Enforce program schedule and policy.</li>
     <li>Supervise recreational activities and field trips.</li>
     <li>Advocate for residents at medical and dental appointments.</li>
     <li>Log all activities of the shift including each resident&#39;s activities, events, and interactions.</li>
     <li>Work Monday to Friday 8&#58;00 a.m. to 4&#58;00 p.m..</li>
     <li><em>Note&#58; Applicants must have at least 6 months of experience working with children and youth and should have excellent initiative, leadership, communication, and interpersonal skills.</em></li>
-    <li>Aid the residents in applying for summer jobs.</li>
-    <li>Assist the residents in their studies, offering tutoring in any subjects in which they are struggling.</li>
-  experience_summaries: <li><a href="lighthouse_new_2019.html">Abby Dillaha, Summer 2019</a></li>
-    <li><a href="lighthouse_new_2018.html">Olivia	Gobble, Summer 2018</a></li>
-    <li><a href="lighthouse_new_2017.html">Michela Carter, Summer 2017</a></li>
-    <li><a href="lighthouse_new_2016.html">Tessa Benanzer, Summer 2016</a></li>
-    <li><a href="lighthouse_new_2015.html">LaToya Smith, Summer 2015</a></li>
-    <li><a href="lighthouse_new_2014.html">Serena Mathews, Summer 2014</a></li>
-    <li><a href="lighthouse_new_2013.html">Katie Baughman, Summer 2013</a></li>
-    <li><a href="lighthouse_new_2011.html">Melissa Meleski, Summer 2011</a></li>
-    <li><a href="lighthouse_new_2010.html">Tiffany Hseih, Summer 2010</a></li>
+  experience_summaries: <li><a href="https://youtu.be/M7-UOI-2evE">Watch to hear more about Andrea's summer experience</a></li>
+    # <li><a href="lighthouse_new_2019.html">Abby Dillaha, Summer 2019</a></li>
+    # <li><a href="lighthouse_new_2018.html">Olivia Gobble, Summer 2018</a></li>
+    # <li><a href="lighthouse_new_2017.html">Michela Carter, Summer 2017</a></li>
+    # <li><a href="lighthouse_new_2016.html">Tessa Benanzer, Summer 2016</a></li>
+    # <li><a href="lighthouse_new_2015.html">LaToya Smith, Summer 2015</a></li>
+    # <li><a href="lighthouse_new_2014.html">Serena Mathews, Summer 2014</a></li>
+    # <li><a href="lighthouse_new_2013.html">Katie Baughman, Summer 2013</a></li>
+    # <li><a href="lighthouse_new_2011.html">Melissa Meleski, Summer 2011</a></li>
+    # <li><a href="lighthouse_new_2010.html">Tiffany Hseih, Summer 2010</a></li>
     # <li><a href="lighthouse_new_2009.html">Li&#39; Bartholomew, Summer 2009</a></li>
     # <li><a href="lighthouse_new_2008.html">Cassidy Schwabb, Summer 2008</a></li>
     # <li><a href="lighthouse_new_2006.html">Amy Petitt, Summer 2006</a></li>
@@ -416,33 +407,23 @@
   city_state_zip: Cincinnati, OH 45220
   phone: 513-961-4080
   web_link: https://www.lys.org/services/homeless-and-runaway-youth/youth-crisis-center/
-  site_supervisor: Esther Cash-Mills, Andrea Greene
+  site_supervisor: David Durr
   google_map: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3094.4501118844355!2d-84.51631904928534!3d39.14174287943337!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b3850894a6dd%3A0x816a30007eb76de6!2s3330+Jefferson+Ave%2C+Cincinnati%2C+OH+45220!5e0!3m2!1sen!2sus!4v1463448322385" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
   job_description: <li>Gain exposure to adolescents who have been victims of abuse and/or have emotional and behavioral problems.</li>
     <li>Enhance their appreciation of the challenges this population faces in terms of family support, resources, and education.</li>
-    <li>Acquire skills in crisis intervention and positive behavior management.</li>
     <li>Serve as a Youth Worker, assisting staff with the care, supervision, and control of youth in the program.</li>
-    <li>Assist with the implementation of an individual service plan for each youth and ensure that they are adequately fed, clothed, disciplined, emotionally nurtured, and physically protected from harm.</li>
     <li>Monitor interactions of youth at the site, facilitate problem solving with them, and model appropriate interactions for them.</li>
-    <li>Enforce the program schedule of activities.</li>
-    <li>Supervise recreational activities and meal setup and cleanup.</li>
-    <li>Answer telephone calls, record messages, and transfer calls when appropriate.</li>
-    <li>Assist with new client intakes and discharges.</li>
-    <li>Provide crisis intervention to youth and families.</li>
-    <li>Maintain security of the site, site coverage and order, and safety standards at all times.</li>
-    <li>Log all activities of the shift, including each client&#39;s activities, events, and housekeeping issues.</li>
-    <li>Maintain open communication and cooperation with all team members.</li>
-    <li>Assist other staff and faculty with various tasks as needed.</li>
     <li>Provide support for the Education Programming Specialist during group activities and outings.</li>
-    <li>Work Monday through Friday 8&#58;30 a.m. - 4&#58;30 p.m..</li>
+    <li>Work Monday through Friday 8&#58;00 a.m. - 4&#58;00 p.m..</li>
     <li><em>Note&#58; Applicants must have at least 6 months experience working with children or youth, be proficient in Microsoft Office, and possess excellent leadership, communication, and interpersonal skills.</em></li>
-  experience_summaries: <li><a href="lighthouse_crisis_2019.html">Sarah Wagner, Summer 2019</a></li>
-    <li><a href="lighthouse_crisis_2018.html">Burke Garcia, Summer 2018</a></li>
-    <li><a href="lighthouse_crisis_2016.html">Nick DePriest, Summer 2016</a></li>
-    <li><a href="lighthouse_crisis_2013.html">Zeyd Khan, Summer 2013</a></li>
-    <li><a href="lighthouse_crisis_2012.html">Joseph Sun, Summer 2012</a></li>
-    <li><a href="lighthouse_crisis_2011.html">Derek Bowden, Summer 2011</a></li>
-    <li><a href="lighthouse_crisis_2010.html">Timothy Stevens, Summer 2010</a></li>
+  experience_summaries: <li><a href="lighthouse_crisis_2020.html">Anna Edwards, Summer 2020</a></li>
+    # <li><a href="lighthouse_crisis_2019.html">Sarah Wagner, Summer 2019</a></li>
+    # <li><a href="lighthouse_crisis_2018.html">Burke Garcia, Summer 2018</a></li>
+    # <li><a href="lighthouse_crisis_2016.html">Nick DePriest, Summer 2016</a></li>
+    # <li><a href="lighthouse_crisis_2013.html">Zeyd Khan, Summer 2013</a></li>
+    # <li><a href="lighthouse_crisis_2012.html">Joseph Sun, Summer 2012</a></li>
+    # <li><a href="lighthouse_crisis_2011.html">Derek Bowden, Summer 2011</a></li>
+    # <li><a href="lighthouse_crisis_2010.html">Timothy Stevens, Summer 2010</a></li>
     # <li><a href="lighthouse_crisis_2009.html">Brian Hendricks, Summer 2009</a></li>
     # <li><a href="lighthouse_crisis_2006.html">Katie Lee, Summer 2008</a></li>
     # <li><a href="lighthouse_crisis_2006.html">Heather Masters, Summer 2006</a></li>
@@ -457,34 +438,25 @@
   phone: 513-221-1017
   fax: 513-221-3817
   web_link: https://www.lys.org/services/homeless-and-runaway-youth/residential-treatment-centers/
-  site_supervisor: Ashley Johnson
+  site_supervisor: Anthony Fraizer
   google_map: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3094.130780690711!2d-84.49728504928508!3d39.149006979432194!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b3a75be7a16f%3A0xa8102e2025735f04!2s3603+Washington+Ave%2C+Cincinnati%2C+OH+45229!5e0!3m2!1sen!2sus!4v1463448661609" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-  job_description: <li>Gain exposure to adolescent boys who suffer from emotional and behavioral problems.</li>
-    <li>Enhance their appreciation of the challenges this population faces in terms of health, education, and family.</li>
-    <li>Improve their understanding of the diagnosis of mental health issues.</li>
-    <li>Increase their awareness and knowledge of the personal and legal ramifications surrounding sexual offenses.</li>
+  job_description: <li>Gain exposure to, and appreciate the challenges faced by, adolescent boys who suffer from emotional and behavioral problems.</li>
     <li>Acquire skills in crisis intervention and positive behavior management.</li>
     <li>Serve as a Youth Worker, assisting staff with the care, supervision, and control of residents in the program.</li>
-    <li>Supervise the residents at a summer work program with activities including gardening, school maintenance, and small construction products.</li>
-    <li>Collaborate with the intern at Lighthouse New Beginnings and the girls in that program for projects such as the urban garden.</li>
-    <li>Assist with the implementation of an individual service plan for each resident and ensure that residents are adequately fed, clothed, disciplined, emotionally nurtured, and physically protected from harm.</li>
     <li>Monitor resident interactions, model appropriate interactions, and facilitate problem solving with residents.</li>
-    <li>Maintain program schedule of activities.</li>
-    <li>Supervise recreational activities and meal setup and cleanup.</li>
     <li>Maintain security of the house, house coverage and order, and safety standards at all times.</li>
-    <li>Log all activities of the shift, including each resident&#39;s activities, events, and housekeeping issues.</li>
-    <li>Maintain open communication and cooperation with all team members.</li>
-    <li>Assist the Youth/Social Worker staff.</li>
-    <li>Work Monday to Friday 8&#58;00 a.m. to 4&#58;00 p.m. (some flexibility may be present, but this timing best suits the schedule of the boys at the site).</li>
-  experience_summaries: <li><a href="lighthouse_development_2018.html">Kaleb Boggs, Summer 2018</a></li>
-    <li><a href="lighthouse_development_2017.html">Aaron Linn, Summer 2017</a></li>
-    <li><a href="lighthouse_development_2016.html">John Duchak, Summer 2016</a></li>
-    <li><a href="lighthouse_development_2015.html">Brian Lewis, Summer 2015</a></li>
-    <li><a href="lighthouse_development_2014.html">Spencer Powell, Summer 2014</a></li>
-    <li><a href="lighthouse_development_2013.html">Jeremy Kearns, Summer 2013</a></li>
-    <li><a href="lighthouse_development_2012.html">Doug Cionni, Summer 2012</a></li>
-    <li><a href="lighthouse_development_2011.html">Michael Goebel, Summer 2011</a></li>
-    <li><a href="lighthouse_development_2010.html">Nathan Schomaker, Summer 2010</a></li>
+    <li>Supervise recreational activities, assist with meal setup and cleanup, and help with group outings.</li>
+    <li>Supervise the residents, in collaboration with the intern at Lighthouse New Beginnings, at a summer work program (8&#58;30 a.m. to 12&#58;30 p.m.) with activities including gardening, trail/park maintenance, and small construction products.</li>
+  experience_summaries: <li><a href="lighthouse_development_2020.html">Jacob Waldruff, Summer 2020</a></li>
+    # <li><a href="lighthouse_development_2018.html">Kaleb Boggs, Summer 2018</a></li>
+    # <li><a href="lighthouse_development_2017.html">Aaron Linn, Summer 2017</a></li>
+    # <li><a href="lighthouse_development_2016.html">John Duchak, Summer 2016</a></li>
+    # <li><a href="lighthouse_development_2015.html">Brian Lewis, Summer 2015</a></li>
+    # <li><a href="lighthouse_development_2014.html">Spencer Powell, Summer 2014</a></li>
+    # <li><a href="lighthouse_development_2013.html">Jeremy Kearns, Summer 2013</a></li>
+    # <li><a href="lighthouse_development_2012.html">Doug Cionni, Summer 2012</a></li>
+    # <li><a href="lighthouse_development_2011.html">Michael Goebel, Summer 2011</a></li>
+    # <li><a href="lighthouse_development_2010.html">Nathan Schomaker, Summer 2010</a></li>
     # <li><a href="lighthouse_development_2009.html">Eric Groh, Summer 2009</a></li>
     # <li><a href="lighthouse_development_2008.html">Melissa Moore, Summer 2008</a></li>
     # <li><a href="lighthouse_development_2007.html">Jason Murray, Summer 2007</a></li>
@@ -493,7 +465,7 @@
 # 
 #   
 - full_name: bethesda_obgyn
-  site_name: The Ob/Gyn Center at Bethesda North Hospital
+  site_name: Former Site&#58; The Ob/Gyn Center at Bethesda North Hospital
   site_description: <p>The Ob/Gyn Center at Bethesda North Hospital provides prenatal and gynecological care to women from a variety of backgrounds, including a large immigrant population and individuals who are uninsured or self-insured. Approximately 50% of patients are covered through Medicaid. It provides a range of traditional women&#39;s services such as maternity and breast care as well as access to initiatives that enhance the wellness of women and their families, such as fitness programs and TriHealth&#39;s Integrative Health and Medicine services. Depending on their ability to pay, care can be offered to patients at an 80% discount and a comprehensive pregnancy care package is available for $3,000. The Ob/Gyn Center is also committed to helping women improve their health through dozens of programs and classes that include maternity education, yoga, aerobics, healthy cooking classes, and more. On site, the clinic also has a financial counselor and a care coordinator to assist with referrals and any additional help needed. As a teaching clinic, the Ob/Gyn Center has a number of residents and medical students.</p>
   address_one: 10498 Montgomery Road
   address_two: Suite 4G
@@ -511,14 +483,15 @@
     <li>Participate in meetings with financial counselors and care coordinators.</li>
     <li>Explore the resources available to underinsured/uninsured individuals in regards to drug prescription costs, homeless shelters, and other clinics and be able to explain them to patients.</li>
     <li><em>Note&#58; The clinic is open from 8&#58;00 a.m. to 4&#58;00 p.m. Monday through Friday.</em></li>
-  experience_summaries: <li><a href="bethesda_obgyn_2017.html">Ridhima Vemula, Summer 2017</a></li>
-    <li><a href="bethesda_obgyn_2016.html">Amber Young, Summer 2016</a></li>
-    <li><a href="bethesda_obgyn_2015.html">Mildrede Bonglack, Summer 2015</a></li>
-    <li><a href="bethesda_obgyn_2014.html">Ashley Sutherland, Summer 2014</a></li>
-    <li><a href="bethesda_obgyn_2013.html">Nadia Khan, Summer 2013</a></li>
-    <li><a href="bethesda_obgyn_2012.html">Sarah Friedberg, Summer 2012</a></li>
-    <li><a href="bethesda_obgyn_2011.html">Sara Medek, Summer 2011</a></li>
-    <li><a href="bethesda_obgyn_2010.html">Jenny Siv, Summer 2010</a></li>
+  experience_summaries: 
+    # <li><a href="bethesda_obgyn_2017.html">Ridhima Vemula, Summer 2017</a></li>
+    # <li><a href="bethesda_obgyn_2016.html">Amber Young, Summer 2016</a></li>
+    # <li><a href="bethesda_obgyn_2015.html">Mildrede Bonglack, Summer 2015</a></li>
+    # <li><a href="bethesda_obgyn_2014.html">Ashley Sutherland, Summer 2014</a></li>
+    # <li><a href="bethesda_obgyn_2013.html">Nadia Khan, Summer 2013</a></li>
+    # <li><a href="bethesda_obgyn_2012.html">Sarah Friedberg, Summer 2012</a></li>
+    # <li><a href="bethesda_obgyn_2011.html">Sara Medek, Summer 2011</a></li>
+    # <li><a href="bethesda_obgyn_2010.html">Jenny Siv, Summer 2010</a></li>
     # <li><a href="bethesda_obgyn_2009.html">Sofia Mirkopoulos, Summer 2009</a></li>
     # <li><a href="bethesda_obgyn_2008.html">Jessica Roberts, Summer 2008</a></li>
     # <li><a href="bethesda_obgyn_2007.html">Victor Chen, Summer 2007</a></li>
@@ -541,8 +514,19 @@
   web_link: https://www.cradlecincinnati.org/
   site_supervisor: Jessica Seeberger
   google_map: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3094.485318751709!2d-84.50356709905301!3d39.140941929433296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b3987402157f%3A0xdde942d91ab48596!2sCradle+Cincinnati!5e0!3m2!1sen!2sus!4v1540345166864" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-  experience_summaries: <li><a href="cradle_cincinnati_2019.html">Callyn Samuel, Summer 2019</a></li>
-    <li><a href="cradle_cincinnati_2018.html">Jordan	Hickey, Summer 2018</a></li>
+  job_description: <li>Attend all Operations and all team meetings</li>
+    <li>Complete assigned tasks in timely manner</li>
+    <li>Follow-up and communicate with supervisor on all projects</li>
+    <li>Attend and participate in the Learning Collaborative meetings</li>
+    <li>Start work at expected time and communicate absences to supervisor</li>
+    <li>Protect Cradle Cincinnati information and limit exposure</li>
+    <li>Complete provided resources and educational materials regarding Mission of Cradle Cincinnati, current objectives, Infant mortality and safe sleep</li> 
+    <li>Perform research on changes to Safe Sleep recommendations and Infant mortality statistics</li>
+    <li>Come up with ideas to engage students, healthcare professionals and community members</li>
+
+  experience_summaries: <li><a href="https://youtu.be/K7ahAZ_QcoM">Watch to hear more about Nosa's summer experience</a></li>
+  # <li><a href="cradle_cincinnati_2019.html">Callyn Samuel, Summer 2019</a></li>
+  # <li><a href="cradle_cincinnati_2018.html">Jordan	Hickey, Summer 2018</a></li>
 #
 # 
 #   
@@ -556,35 +540,35 @@
   city_state_zip: Cincinnati, OH 45202
   phone: 513-768-6905
   web_link: https://www.cinunionbethel.org/how-we-help/off-the-streets/
-  site_supervisor: Tracy Smith
+  site_supervisor: Viann Barnett
   google_map: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3095.179075460539!2d-84.5040554492859!3d39.12515627943578!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b3ea6df7883f%3A0xf0900f2525ac0e22!2s2401+Reading+Rd%2C+Cincinnati%2C+OH+45202!5e0!3m2!1sen!2sus!4v1463449283478" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
   job_description: <li>Form relationships with the women at the site.</li>
     <li>Lead biweekly group sessions.</li>
     <li>Help clients and staff members as needed.</li>
     <li>Perform miscellaneous tasks as assigned.</li>
     <li>Observe and complete the intake process.</li>
-    <li>Assist with other Cincinnati Union Bethel programs (Anna Louise Inn, Scholar House) as needed.</li>
     <li>Drive women to appointments to get prescriptions, to look at housing, etc.</li>
     <li>Assist in dispensing medications to clients.</li>
     <li>Help clients move to stable housing.</li>
     <li>Observe and participate in group sessions as appropriate.</li>
     <li>Perform administrative work, such as updating documents.</li>
-  experience_summaries: <li><a href="off_the_streets_2019.html">Caroline Skulski, Summer 2019</a></li>
-    <li><a href="off_the_streets_2018.html">Hillary	Purcell, Summer 2018</a></li>
-    <li><a href="off_the_streets_2017.html">Maria Radzwion, Summer 2017</a></li>
-    <li><a href="off_the_streets_2016.html">Helen Mulcahy, Summer 2016</a></li>
-    <li><a href="off_the_streets_2015.html">Thara Nagarajan, Summer 2015</a></li>
-    <li><a href="off_the_streets_2014.html">Molly McDonough, Summer 2014</a></li>
-    <li><a href="off_the_streets_2013.html">Codie-Anne Crew, Summer 2013</a></li>
-    <li><a href="off_the_streets_2012.html">Monica Benedikt, Summer 2012</a></li>
-    <li><a href="off_the_streets_2011.html">Morgan Elise Brown, Summer 2011</a></li>
-    <li><a href="off_the_streets_2010.html">Andrea Sitlinger, Summer 2010</a></li>
+  experience_summaries: <li><a href="https://youtu.be/FHxNQqEmqVw">Watch to hear more about Malia's summer experience</a></li>
+    # <li><a href="off_the_streets_2019.html">Caroline Skulski, Summer 2019</a></li>
+    # <li><a href="off_the_streets_2018.html">Hillary Purcell, Summer 2018</a></li>
+    # <li><a href="off_the_streets_2017.html">Maria Radzwion, Summer 2017</a></li>
+    # <li><a href="off_the_streets_2016.html">Helen Mulcahy, Summer 2016</a></li>
+    # <li><a href="off_the_streets_2015.html">Thara Nagarajan, Summer 2015</a></li>
+    # <li><a href="off_the_streets_2014.html">Molly McDonough, Summer 2014</a></li>
+    # <li><a href="off_the_streets_2013.html">Codie-Anne Crew, Summer 2013</a></li>
+    # <li><a href="off_the_streets_2012.html">Monica Benedikt, Summer 2012</a></li>
+    # <li><a href="off_the_streets_2011.html">Morgan Elise Brown, Summer 2011</a></li>
+    # <li><a href="off_the_streets_2010.html">Andrea Sitlinger, Summer 2010</a></li>
   #additional_info: <p><p>In 2018, this site will include opportunities for Community Based Research! Details will be coming soon.</p></p>
 #
 # 
 #   
 - full_name: project_connect
-  site_name: Project Connect
+  site_name: Former Site&#58; Project Connect
   site_description: <p>Project Connect, a part of Cincinnati Public Schools, is a program in Greater Cincinnati that exclusively serves children experiencing homelessness. Since 1996, Project Connect has provided educational and enrichment services with the goal of promoting adequate education for homeless children. Their program partners with area shelters to assist with basic needs such as transportation, clothing, and school supplies while also organizing after-school enrichment opportunities during the academic year. The summer program in which the Urban Health Project intern participates offers children a fun and enriching experience while giving their parents the time necessary for employment searches and other tasks. The days consist of breakfast and lunch, daily reading, group activities such as jump roping and games, enrichment activities, and weekly field trips.</p><p>During the school year there is a second address before and after camp has ended:<br />Rising Stars Academy at 2120 Vine Street, Cincinnati, OH 45202<br /> Phone - 513-363-6500<br /> Fax - 513-363-6520</p>
   address_one: <strong>Physical Address:</strong><br />Project Connect<br />Fairview German Language School<br />3689 Clifton Ave.<br />Cincinnati, OH 45220<br />
   address_two: <strong>Mailing Address:</strong><br />2651 Burnet Avenue<br />Cincinnati, OH 45219
@@ -608,22 +592,23 @@
     <li><em>Note&#58; Applicants should have an interest in the education and health of homeless children and must be timely and self-motivated.</em></li>
     <li>Create and provide a lesson plan to campers focusing on an aspect of health an wellness (work with site supervisors on choosing a topic area)</li>
     <li>After the six weeks of camp, interns are expected to aid the Project Connect employees with the end-of-summer office duties including compiling reports/budgets, preparing school supplies for children for the upcoming school year, and moving camp supplies into storage.</li>
-  experience_summaries: <li><a href="project_connect_2019.html">Allie Pendery, Summer 2019</a></li>
-    <li><a href="project_connect_2018_01.html">Margaret (Kit)	Carney, Summer 2018</a></li>
-    <li><a href="project_connect_2018_02.html">Molly O'Shea , Summer 2018</a></li>
-    <li><a href="project_connect_2017_01.html">Logan Borgelt, Summer 2017</a></li>
-    <li><a href="project_connect_2017_02.html">Roxanne Rezaei, Summer 2017</a></li>
-    <li><a href="project_connect_2016_01.html">Kevin Polacek, Summer 2016</a></li>
-    <li><a href="project_connect_2016_02.html">Sean Bloor, Summer 2016</a></li>
-    <li><a href="project_connect_2015_01.html">Julia Hunter, Summer 2015</a></li>
-    <li><a href="project_connect_2015_02.html">Esper Wadih, Summer 2015</a></li>
-    <li><a href="project_connect_2014.html">Leah Gilligan, Summer 2014</a></li>
-    <li><a href="project_connect_2013_01.html">Marja Brolinson, Summer 2013</a></li>
-    <li><a href="project_connect_2013_02.html">Danny Nygren, Summer 2013</a></li>
-    <li><a href="project_connect_2012.html">Matt Herrmann, Summer 2012</a></li>
-    <li><a href="project_connect_2011.html">Nick Szugye, Summer 2011</a></li>
-    <li><a href="project_connect_2010_01.html">Sophie Dream, Summer 2010</a></li>
-    <li><a href="project_connect_2010_02.html">Wesley Kim, Summer 2010</a></li>
+  experience_summaries: 
+    # <li><a href="project_connect_2019.html">Allie Pendery, Summer 2019</a></li>
+    # <li><a href="project_connect_2018_01.html">Margaret (Kit) Carney, Summer 2018</a></li>
+    # <li><a href="project_connect_2018_02.html">Molly O'Shea , Summer 2018</a></li>
+    # <li><a href="project_connect_2017_01.html">Logan Borgelt, Summer 2017</a></li>
+    # <li><a href="project_connect_2017_02.html">Roxanne Rezaei, Summer 2017</a></li>
+    # <li><a href="project_connect_2016_01.html">Kevin Polacek, Summer 2016</a></li>
+    # <li><a href="project_connect_2016_02.html">Sean Bloor, Summer 2016</a></li>
+    # <li><a href="project_connect_2015_01.html">Julia Hunter, Summer 2015</a></li>
+    # <li><a href="project_connect_2015_02.html">Esper Wadih, Summer 2015</a></li>
+    # <li><a href="project_connect_2014.html">Leah Gilligan, Summer 2014</a></li>
+    # <li><a href="project_connect_2013_01.html">Marja Brolinson, Summer 2013</a></li>
+    # <li><a href="project_connect_2013_02.html">Danny Nygren, Summer 2013</a></li>
+    # <li><a href="project_connect_2012.html">Matt Herrmann, Summer 2012</a></li>
+    # <li><a href="project_connect_2011.html">Nick Szugye, Summer 2011</a></li>
+    # <li><a href="project_connect_2010_01.html">Sophie Dream, Summer 2010</a></li>
+    # <li><a href="project_connect_2010_02.html">Wesley Kim, Summer 2010</a></li>
     # <li><a href="project_connect_2009.html">Andrea Watts, Summer 2009</a></li>
     # <li><a href="project_connect_2008.html">Kristofer Schramm, Summer 2008</a></li>
     # <li><a href="project_connect_2007.html">Gretchen Schultz, Summer 2007</a></li>
@@ -632,7 +617,7 @@
 # 
 #   
 - full_name: su_casa
-  site_name: Su Casa Hispanic Center
+  site_name: Former Site&#58; Su Casa Hispanic Center
   site_description: <p>Su Casa Hispanic Center of Cincinnati is the main provider of educational, social, language, employment, and health care services to the Hispanic/Latino community in Greater Cincinnati. Su Casa was founded in 1997 as a program of Catholic Charities, which is a ministry of the Archdiocese of Cincinnati that has been serving the vulnerable members of the community for over 100 years. Su Casa offers a variety of services including health promotion services, emergency assistance services, and educational services. One of the educational services that Su Casa offers during the summer is the Vacaciones &Uacute;tiles youth enrichment program. Since 2008, Vacaciones &Uacute;tiles has focused on Hispanic/Latino youth to bridge the academic performance gap between them and their classmates. Vacaciones &Uacute;tiles serves over 50 students each summer ranging from pre-school to second grade to help them grow academically, socially, artistically, and spiritually. The holistic program provides nutrition lessons, field trips, and plenty of time to exercise outside. Workshops are available for the parents throughout the summer regarding different topics such as stages of child development, health, and nutrition as well.</p>
     <p>Cincinnati-Hamilton County Community Action Agency (location of Vacaciones &Uacute;tiles program) - 1740 Langdon Farm Rd, Cincinnati, OH 45237</p>
   address_one: 7162 Reading Road, Suite 610
@@ -653,8 +638,9 @@
     <li>Build a positive working relationship with staff and other interns from different programs at Vacaciones &Uacute;tiles.</li>
     <li>Attend a 3 hour VIRTUS training session before the Vacaciones &Uacute;tiles program starts.</li>
     <li>After the 8-week program, assist the Vacaciones &Uacute;tiles staff with packing up and cleaning the classrooms, organizing and taking inventory of supplies, and writing up reports and feedback.</li>
-  experience_summaries: <li><a href="su_casa_2019.html">Rachael Crenshaw, Summer 2019</a></li>
-    <li><a href="su_casa_2018.html">Kaitlyn	Hegewald, Summer 2018</a></li>
+  experience_summaries: 
+    # <li><a href="su_casa_2019.html">Rachael Crenshaw, Summer 2019</a></li>
+    # <li><a href="su_casa_2018.html">Kaitlyn Hegewald, Summer 2018</a></li>
 #
 # 
 #   
@@ -676,20 +662,21 @@
     <li>Assist in other duties as needed, including direct surveying, research, program planning, group/activity facilitation, record keeping, and evaluation.</li>
     <li>Facilitate the activities necessary to meet the goals of residents.</li>
     <li>Be available during normal working hours.</li>
-  experience_summaries: <li><a href="tender_mercies_2019.html">Juliana Lavey, Summer 2019</a></li>
-    <li><a href="tender_mercies_2018_01.html">Diana	Sarfo, Summer 2018</a></li>
-    <li><a href="tender_mercies_2018_02.html">Melissa	Johns, Summer 2018</a></li>
-    <li><a href="tender_mercies_2017.html">Omar Saqr, Summer 2017</a></li>
-    <li><a href="tender_mercies_2016_01.html">Brandon O'Malley, Summer 2016</a></li>
-    <li><a href="tender_mercies_2016_02.html">Nirguna Thalla, Summer 2016</a></li>
-    <li><a href="tender_mercies_2015_01.html">Martha Dua-Awereh, Summer 2015</a></li>
-    <li><a href="tender_mercies_2015_02.html">Sean Lawson, Summer 2015</a></li>
-    <li><a href="tender_mercies_2014.html">Aakash Shah, Summer 2014</a></li>
-    <li><a href="tender_mercies_2013_01.html">Natalie Hood, Summer 2013</a></li>
-    <li><a href="tender_mercies_2013_02.html">Christopher Kovaleski, Summer 2013</a></li>
-    <li><a href="tender_mercies_2012.html">Martha Michelle Estrada, Summer 2012</a></li>
-    <li><a href="tender_mercies_2011.html">Paluk Walia, Summer 2011</a></li>
-    <li><a href="tender_mercies_2010.html">Christina Mackell, Summer 2010</a></li>
+  experience_summaries: <li><a href="tender_mercies_2020.html">Annamarie Nocera, Summer 2020</a></li>
+    # <li><a href="tender_mercies_2019.html">Juliana Lavey, Summer 2019</a></li>
+    # <li><a href="tender_mercies_2018_01.html">Diana Sarfo, Summer 2018</a></li>
+    # <li><a href="tender_mercies_2018_02.html">Melissa Johns, Summer 2018</a></li>
+    # <li><a href="tender_mercies_2017.html">Omar Saqr, Summer 2017</a></li>
+    # <li><a href="tender_mercies_2016_01.html">Brandon O'Malley, Summer 2016</a></li>
+    # <li><a href="tender_mercies_2016_02.html">Nirguna Thalla, Summer 2016</a></li>
+    # <li><a href="tender_mercies_2015_01.html">Martha Dua-Awereh, Summer 2015</a></li>
+    # <li><a href="tender_mercies_2015_02.html">Sean Lawson, Summer 2015</a></li>
+    # <li><a href="tender_mercies_2014.html">Aakash Shah, Summer 2014</a></li>
+    # <li><a href="tender_mercies_2013_01.html">Natalie Hood, Summer 2013</a></li>
+    # <li><a href="tender_mercies_2013_02.html">Christopher Kovaleski, Summer 2013</a></li>
+    # <li><a href="tender_mercies_2012.html">Martha Michelle Estrada, Summer 2012</a></li>
+    # <li><a href="tender_mercies_2011.html">Paluk Walia, Summer 2011</a></li>
+    # <li><a href="tender_mercies_2010.html">Christina Mackell, Summer 2010</a></li>
     # <li><a href="tender_mercies_2009.html">Patrick Minges, Summer 2009</a></li>
     # <li><a href="tender_mercies_2008.html">Mark Stephens, Summer 2008</a></li>
     # <li><a href="tender_mercies_2007.html">Laura Gaige, Summer 2007</a></li>
@@ -698,7 +685,7 @@
 # 
 #   
 - full_name: uc_family
-  site_name: University of Cincinnati Department of Family and Community Medicine
+  site_name: UC Department of Family Medicine/Belterra Racetrack Clinic
   site_description: <p>The University of Cincinnati (UC) Department of Family and Community Medicine is heavily involved with fellow, resident, and medical student teaching at the UC College of Medicine. Faculty members at their clinical sites provide care to a variety of populations from varying socioeconomic backgrounds and also practice in hospitals and extended-care facilities. In addition, the Department sponsors a broad array of community service programs, providing free health care to many underserved patients in the area, including the homeless, Hispanic immigrants, troubled and disadvantaged youth, and the elderly. Urban Health Project interns provide assistance at the Belterra Racetrack Clinic, update the Community and Homeless Resource Map, shadow primary care physicians with the Healthcare for the Homeless program, and participate in other projects as needed.</p>
   address_one: UC College of Medicine
   address_two: ML 0582
@@ -709,9 +696,8 @@
   site_supervisor: Joseph Kiesler, <em>MD</em>
   google_map: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3094.586324972294!2d-84.50612014928545!3d39.13864397943376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b397764d4801%3A0xa543b41fd18cecd!2s231+Albert+Sabin+Way%2C+Cincinnati%2C+OH+45229!5e0!3m2!1sen!2sus!4v1463450298758" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
   job_description: <li>Gain a better understanding of the barriers to health care access the populations served by this site face and of the community service agencies assisting these populations.</li>
-    <li>Acquire basic clinical experience.</li>
     <li>Be involved in direct patient care, coordination of clinic services, identification of community and homeless services, evaluation of opportunities for growth of the programs, and community outreach.</li>
-    <li>Work at the Belterra Race Track Clinic, a free clinic for workers that live and work on the "backside" of the track, on Thursday evenings from 5&#58;30 p.m. to 10&#58;00 p.m.</li>
+    <li>Work at the Belterra Race Track Clinic, a free clinic for workers that live and work on the &ldquo;backside&rdquo; of the track, on Moday evenings from 5&#58;30 p.m. to 10&#58;00 p.m.</li>
     <ul>
       <li>Assist in providing patient care, coordinating clinic sessions, organizing health fairs, administering TB testing, etc.</li>
       <li>Compile the clinic demographics and statistics about the health care provided.</li>
@@ -724,21 +710,22 @@
       <li>Visiting sites on the map.</li>
       <li>Coordinating the distribution of the map.</li>
     </ul>
+    <li>Dr. Kiesler is open to personal projects at the clinic and is flexible with an individual&apos;s personal ideas on improving the resource map and clinic such as using surveys, focus groups, outreach, etc.</li>
     <li><em>Note&#58; Applicants with Spanish speaking skills are preferred, but not required, as the Race Track Clinic provides interpreters.</em></li>
-    <li>Dr. Kiesler is open to personal projects at the clinic and is flexible with an individual's personal ideas on improving the resource map and clinic such as using surveys, focus groups, outreach, etc.</li>
-  experience_summaries: <li><a href="uc_family_2019.html">John Ernst, Summer 2019</a></li>
-    <li><a href="uc_family_2018.html">Caitlin	Moore, Summer 2018</a></li>
-    <li><a href="uc_family_2017.html">Anthony DeMarco, Summer 2017</a></li>
-    <li><a href="uc_family_2016.html">Heather Peterson, Summer 2016</a></li>
-    <li><a href="uc_family_2015.html">Adrian Acosta, Summer 2015</a></li>
-    <li>Sara McCrate, Summer 2014</li>
-    <li><a href="uc_family_2013.html">Kerry Lyons, Summer 2013</a></li>
-    <li><a href="uc_family_2012_01.html">Erin Capitena, Summer 2012</a></li>
-    <li><a href="uc_family_2012_02.html">William Clark, Summer 2012</a></li>
-    <li><a href="uc_family_2011_01.html">Patty Davenport, Summer 2011</a></li>
-    <li><a href="uc_family_2011_02.html">Maggie Mulligan, Summer 2011</a></li>
-    <li><a href="uc_family_2010_02.html">Maria Hovey, Summer 2010</a></li>
-    <li><a href="uc_family_2010_01.html">Yvonne Yui, Summer 2010</a></li>
+  experience_summaries: <li><a href="https://youtu.be/wyVUA2ukKXE">Watch to hear more about Ben's summer experience</a></li>
+    # <li><a href="uc_family_2019.html">John Ernst, Summer 2019</a></li>
+    # <li><a href="uc_family_2018.html">Caitlin Moore, Summer 2018</a></li>
+    # <li><a href="uc_family_2017.html">Anthony DeMarco, Summer 2017</a></li>
+    # <li><a href="uc_family_2016.html">Heather Peterson, Summer 2016</a></li>
+    # <li><a href="uc_family_2015.html">Adrian Acosta, Summer 2015</a></li>
+    # <li>Sara McCrate, Summer 2014</li>
+    # <li><a href="uc_family_2013.html">Kerry Lyons, Summer 2013</a></li>
+    # <li><a href="uc_family_2012_01.html">Erin Capitena, Summer 2012</a></li>
+    # <li><a href="uc_family_2012_02.html">William Clark, Summer 2012</a></li>
+    # <li><a href="uc_family_2011_01.html">Patty Davenport, Summer 2011</a></li>
+    # <li><a href="uc_family_2011_02.html">Maggie Mulligan, Summer 2011</a></li>
+    # <li><a href="uc_family_2010_02.html">Maria Hovey, Summer 2010</a></li>
+    # <li><a href="uc_family_2010_01.html">Yvonne Yui, Summer 2010</a></li>
     # <li><a href="uc_family_2009_01.html">Juan Rojas, Summer 2009</a></li>
     # <li><a href="uc_family_2009_02.html">Gina Meyer, Summer 2009</a></li>
     # <li><a href="uc_family_2008.html">Rachel Robitz, Summer 2008</a></li>
@@ -754,7 +741,7 @@
   city_state_zip: Covington, KY 41011
   phone: 859-431-8717
   web_link: https://welcomehouseky.org/
-  site_supervisor: Julie Walter
+  site_supervisor: Bev Merrill
   google_map: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3097.067175990408!2d-84.51541214928733!3d39.08216757944214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b130c8600411%3A0xc9faea75d28178d2!2s205+W+Pike+St%2C+Covington%2C+KY+41011!5e0!3m2!1sen!2sus!4v1463450603019" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
   job_description: <li>Gain an appreciation for the causes of homelessness and the challenges homeless women face.</li>
     <li>Acquire an understanding of the difficulties that underserved populations face in accessing health care and of the resources available to the underserved.</li>
@@ -769,16 +756,17 @@
       <ul>
         <li>Hours will be set based on the needs of the shelter and activities/meetings already scheduled. However, educational groups and activities with children will usually occur during the evening hours.</li>
       </ul>
-  experience_summaries: <li><a href="welcome_house_2019.html">Meghan St. John, Summer 2019</a></li>
-    <li><a href="welcome_house_2018.html">Jordan Hickey, Summer 2018</a></li>
-    <li><a href="welcome_house_2017.html">Roxanne Rezaei, Summer 2017</a></li>
-    <li><a href="welcome_house_2016.html">Zoe Walters, Summer 2016</a></li>
-    <li><a href="welcome_house_2015.html">Teresa Whitaker, Summer 2015</a></li>
-    <li><a href="welcome_house_2014.html">Melanie Wilson, Summer 2014</a></li>
-    <li><a href="welcome_house_2013.html">Alexandra Kreiselman, Summer 2013</a></li>
-    <li><a href="welcome_house_2012.html">Randy Lehman, Summer 2012</a></li>
-    <li><a href="welcome_house_2011.html">Rebecca Yeager, Summer 2011</a></li>
-    <li><a href="welcome_house_2010.html">Ashley Ivkovich, Summer 2010</a></li>
+  experience_summaries: <li><a href="https://youtu.be/LH1kpE02a4Q">Watch to hear more about Kiersten's summer experience</a></li>
+    # <li><a href="welcome_house_2019.html">Meghan St. John, Summer 2019</a></li>
+    # <li><a href="welcome_house_2018.html">Jordan Hickey, Summer 2018</a></li>
+    # <li><a href="welcome_house_2017.html">Roxanne Rezaei, Summer 2017</a></li>
+    # <li><a href="welcome_house_2016.html">Zoe Walters, Summer 2016</a></li>
+    # <li><a href="welcome_house_2015.html">Teresa Whitaker, Summer 2015</a></li>
+    # <li><a href="welcome_house_2014.html">Melanie Wilson, Summer 2014</a></li>
+    # <li><a href="welcome_house_2013.html">Alexandra Kreiselman, Summer 2013</a></li>
+    # <li><a href="welcome_house_2012.html">Randy Lehman, Summer 2012</a></li>
+    # <li><a href="welcome_house_2011.html">Rebecca Yeager, Summer 2011</a></li>
+    # <li><a href="welcome_house_2010.html">Ashley Ivkovich, Summer 2010</a></li>
     # <li><a href="welcome_house_2009.html">Brittany Reed, Summer 2009</a></li>
     # <li><a href="welcome_house_2008.html">Erin Becka, Summer 2008</a></li>
     # <li><a href="welcome_house_2007.html">Andrea Klass, Summer 2007</a></li>
@@ -804,14 +792,15 @@
     <li>Conduct a research project involving the unique needs of foster parents and children in foster care.</li>
     <li>Explore the resources available to foster families, including financial help, doctors&#39; appointments, training for foster parents and special school programs for children in foster care.</li>
     <li>Be exposed to the daily struggles of foster parents and children in the foster care system and gain the knowledge of how to help, especially with their medical issues.</li>
-  experience_summaries: <li><a href="check_foster_care_2013.html">Sue Collins, Summer 2013</a></li>
-    <li><a href="check_foster_care_2012.html">Jenny Ross, Summer 2012</a></li>
+  experience_summaries: 
+    # <li><a href="check_foster_care_2013.html">Sue Collins, Summer 2013</a></li>
+    # <li><a href="check_foster_care_2012.html">Jenny Ross, Summer 2012</a></li>
 #
 # 
 #   
 - full_name: cincinnati_youth_collaborative
   site_name: Cincinnati Youth Collaborative
-  site_description: <p>Cincinnati Youth Collaborative (CYC) is an organization that begun 30 years ago to help alleviate the dropout rate in Cincinnati. They approached this through mentors and with job preparation workshops to help youth learn job skills. They also have a college success program that exposes students to college tours, academic/career advising and how to pay for college.</p>
+  site_description: <p>Cincinnati Youth Collaborative (CYC) is an organization that began 30 years ago to help alleviate the dropout rate in Cincinnati. The organization approaches this goal through job preparation workshops to help youth learn job skills. CYC also has a college success program that exposes students to college tours as well as academic, financial, and career advising. The intern will have the opportunity to work with various other organizations associated with CYC, including MedMentors, Joining Forces for Children and the Mayerson Center. Med Mentors is an organization that works with CYC to pair medical students who wish to mentor with local school-aged children. Joining Forces for Children (JfFC) is an organization that strives to reduce the impact of Adverse Childhood Events on the youth of Cincinnati. They work with community organizations for community outreach, and the Mayerson Center at Cincinnati Children&apos;s hospital to work with families of abused children, to help build resilience both on the individual and community levels.</p>
   address_one: 301 Oak St 
   city_state_zip: Cincinnati, OH 45219
   phone: 513-363-5200
@@ -819,17 +808,20 @@
   web_link: https://www.cycyouth.org
   #site_supervisor: Andrew Beck, <em>MD, MPH, Assistant Professor of Pediatrics, Division of General &amp; Community Pediatrics</em>
   google_map: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12379.725154950762!2d-84.5026824!3d39.130795!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcdcb21404329ea09!2sCincinnati%20Youth%20Collaborative!5e0!3m2!1sen!2sus!4v1572184249802!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-  job_description: <li>Data Analysis of medmentor&apos;s program</li>
-    <li>Run workshops on employability skills for high school/college students</li>
-    <li>Help and participate in summer programs</li>
+  job_description: <li>Analyze data of the Med Mentors program to assess cultural competency achievement</li>
+    <li>Analyze CYC program data and mentor data to help optimize CYC programs</li>
+    <li>Prepare content for CYC&apos;s online Mentoring Assistance Platform</li>
+    <li>Work on various research projects and survey data analysis for JFfC</li>
+    <li>Attend meetings to help implement Trauma Informed Care at the Mayerson Center</li>
     </ul>
-  experience_summaries: <li><a href="cincinnati_youth_collaborative_2019.html">Sarah Dennis, Summer 2019</a></li>
+  experience_summaries: <li><a href="https://youtu.be/RZ5SVsRfLyk">Watch to hear more about Nimi's summer experience</a></li>
+  # <li><a href="cincinnati_youth_collaborative_2019.html">Sarah Dennis, Summer 2019</a></li>
 #
 # 
 #   
 - full_name: cincy_childrens
   site_name: Cincinnati Children&#39;s Hospital, Division of Community Pediatrics
-  site_description: <p>The Primary Pediatric Center (PPC) at Cincinnati Children&#39;s Hospital has over 35,000 patient visits per year, providing primary pediatric care to children from birth to adolescents. The patient population served is about 88% Medicaid and 5% uninsured. The clinic is open every day of the week, as well as five evenings throughout the week. At the PPC, there are 20 attending physicians as well as 26 moonlighting and community doctors that each work approximately one shift per week. In addition, it is a large teaching facility with 160 residents and medical students training in the clinic each year.</p>
+  site_description: <p>The Primary Pediatric Center (PPC) at Cincinnati Children's Hospital has over 35,000 patient visits per year, providing primary pediatric care to children from birth to adolescents. The patient population served is about 88% Medicaid and 5% uninsured. The clinic is open 6 days a week, as well as five evenings throughout the week. At the PPC, there are >20 attending physicians that have at least one shift per week. In addition, it is a large teaching facility with 160 residents and medical students training in the clinic each year. The PPC is integrally tied to the broader Cincinnati Children&apos;s Community Health Initiative. The aspiration for this Initiative is, &ldquo;Together with families and the community we will help Cincinnati&apos;s kids to be the healthiest in the nation.&rdquo;</p>
   address_one: 3727 St. Lawrence Ave.
   city_state_zip: Cincinnati, OH 45205
   phone: 513-246-6884
@@ -839,19 +831,19 @@
   google_map: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3094.486815453247!2d-84.5037403492854!3d39.14090787943333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b3983592a1e5%3A0xfc2bc65fea44bc73!2s3333+Burnet+Ave%2C+Cincinnati%2C+OH+45229!5e0!3m2!1sen!2sus!4v1463536461028" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
   job_description: <li>Gain insight into how financial barriers and social issues affect the basic healthcare of children.</li>
     <li>Acquire knowledge regarding legal procedures and involvement in health care.</li>
-    <li>Assist Dr. Andrew Beck in Public Health and Quality Improvement research.</li>
+    <li>Assist Dr. Andrew Beck in Public Health and Quality Improvement research, including as it pertains to the Community Health Initiative and the regional response to the COVID-19 pandemic.</li>
     <li>Work with different community groups and obtain exposure to patient advocacy.</li>
-    <li>Shadow residents, attending physicians, and social workers regularly in the PPC clinic as well as other specialties. </li>
-    <li>Attend meetings throughout the summer with Dr. Beck and the other members of the Division of General and Community Pediatrics. </li>
+    <li>Shadow residents, attending physicians, and social workers regularly in the PPC clinic as well as other specialties.</li>
+    <li>Attend meetings throughout the summer with Dr. Beck and the other members of the Division of General and Community Pediatrics.</li>
     <li>Preference given to Pediatrics Scholars and individuals with prior public health experience.</li>
-    <li>Need to start the process of obtaining their ID badge as soon as possible after being selected. This process costs $15 and takes a few weeks to finish. Proof of immunizations and a TB test will be needed. Finally, a drug test must be done within 30 days of your start date.</li>
     </ul>
-  experience_summaries: <li><a href="cincy_childrens_2019.html">Ronay Thomas, Summer 2019</a></li>
-    <li><a href="cincy_childrens_2018_01.html">Caroline	Heyd, Summer 2018</a></li>
-    <li><a href="cincy_childrens_2018_02.html">Saige	Miller, Summer 2018</a></li>
-    <li><a href="cincy_childrens_2017.html">Caroline Hensley, Summer 2017</a></li>
-    <li><a href="cincy_childrens_2011.html">Hani Siddeek, Summer 2011</a></li>
-    <li><a href="cincy_childrens_2010.html">Andrew Ng, Summer 2010</a></li>
+  experience_summaries: <li><a href="https://youtu.be/tAImUiuF-mA">Watch to hear more about Grace's summer experience</a></li>
+    # <li><a href="cincy_childrens_2019.html">Ronay Thomas, Summer 2019</a></li>
+    # <li><a href="cincy_childrens_2018_01.html">Caroline Heyd, Summer 2018</a></li>
+    # <li><a href="cincy_childrens_2018_02.html">Saige Miller, Summer 2018</a></li>
+    # <li><a href="cincy_childrens_2017.html">Caroline Hensley, Summer 2017</a></li>
+    # <li><a href="cincy_childrens_2011.html">Hani Siddeek, Summer 2011</a></li>
+    # <li><a href="cincy_childrens_2010.html">Andrew Ng, Summer 2010</a></li>
     # <li><a href="cincy_childrens_2009.html">Helen Wier, Summer 2009</a></li>
     # <li><a href="cincy_childrens_2008.html">Courtney Kroeger, Summer 2008</a></li>
     # <li><a href="cincy_childrens_2007.html">E. Courtney Crane Sherman, Summer 2007</a></li>
@@ -876,9 +868,10 @@
     <li>Have the opportunity to sit in on psychiatric interviews.</li>
     <li>Assist in all areas of clinic activities.</li>
     <li>Perform multiple office tasks ranging from answering the phones to assisting with special projects.</li>
-  experience_summaries: <li><a href="health_resource_2012.html">Ruby Xia, Summer 2012</a></li>
-    <li><a href="health_resource_2011.html">Chris Hoersting, Summer 2011</a></li>
-    <li><a href="health_resource_2010.html">Neil Patel, Summer 2010</a></li>
+  experience_summaries: 
+    # <li><a href="health_resource_2012.html">Ruby Xia, Summer 2012</a></li>
+    # <li><a href="health_resource_2011.html">Chris Hoersting, Summer 2011</a></li>
+    # <li><a href="health_resource_2010.html">Neil Patel, Summer 2010</a></li>
     # <li><a href="health_resource_2009.html">Steven Moore, Summer 2009</a></li>
     # <li><a href="health_resource_2008.html">Laura Pareso, Summer 2008</a></li>
     # <li><a href="health_resource_2007.html">Greg Mecoli, Summer 2007</a></li>
@@ -896,10 +889,11 @@
   site_supervisor: Marybeth Baribeau
   google_map: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3090.2026374895345!2d-84.39063414928218!3d39.238271479419026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884053b1d2ed50f7%3A0x9a8953977f11eb71!2s4360+Cooper+Rd%2C+Cincinnati%2C+OH+45242!5e0!3m2!1sen!2sus!4v1463537442814" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
   job_description: <p>Because HOC is such a complex organization, it is necessary that the intern spend the beginning of the internship completing orientations and shadowing employees in different disciplines. These opportunities include shadowing physicians, nurses, social workers, and chaplains both in homecare and in the inpatient units. The intern will also attend Interdisciplinary Group Meetings to witness how the team comes together to ensure that the patients&#39; needs are met all on fronts. HOC is also very involved in the community, and the intern will get the opportunity to go to presentations and community seminars with the marketing department. The remainder of the time is spent in the main office in Blue Ash. The education department oversees all of the various departments and disciplines, and the intern will spend time there both learning more about the intricacies of the organization and helping out with ongoing projects.   He/she will gain valuable knowledge about end-of-life care and palliative medicine that will be useful no matter which specialty of medicine they choose to pursue.</p>
-  experience_summaries: <li><a href="hospice_of_cincinnati_2013.html">Christopher Swaim, Summer 2013</a></li>
-    <li><a href="hospice_of_cincinnati_2012.html">Lauren Chiec, Summer 2012</a></li>
-    <li><a href="hospice_of_cincinnati_2011.html">Mindy Hsu, Summer 2011</a></li>
-    <li><a href="hospice_of_cincinnati_2010.html">Colleen Marty, Summer 2010</a></li>
+  experience_summaries: 
+    # <li><a href="hospice_of_cincinnati_2013.html">Christopher Swaim, Summer 2013</a></li>
+    # <li><a href="hospice_of_cincinnati_2012.html">Lauren Chiec, Summer 2012</a></li>
+    # <li><a href="hospice_of_cincinnati_2011.html">Mindy Hsu, Summer 2011</a></li>
+    # <li><a href="hospice_of_cincinnati_2010.html">Colleen Marty, Summer 2010</a></li>
     # <li><a href="hospice_of_cincinnati_2009.html">Loren Brook, Summer 2009</a></li>
 #
 # 
@@ -924,9 +918,10 @@
     <li>Perform basic health screenings.</li>
     </ul>
     <p>Help to develop and teach/distribute educational programs on topics pertaining to health, nutrition and life skills.</p>
-  experience_summaries: <li><a href="parish_nursing_2012.html">Grace Miller, Summer 2012</a></li>
-    <li><a href="parish_nursing_2011.html">Neda Esfahani, Summer 2011</a></li>
-    <li><a href="parish_nursing_2010.html">Brent Wagner, Summer 2010</a></li>
+  experience_summaries: 
+    # <li><a href="parish_nursing_2012.html">Grace Miller, Summer 2012</a></li>
+    # <li><a href="parish_nursing_2011.html">Neda Esfahani, Summer 2011</a></li>
+    # <li><a href="parish_nursing_2010.html">Brent Wagner, Summer 2010</a></li>
     # <li><a href="parish_nursing_2008.html">Senai Negassi, Summer 2008</a></li>
 #
 # 
@@ -946,7 +941,7 @@
       <li>Creating informational handouts for disease management.</li>
       <li>Studying the Epic system and updating patient records between visits.</li>
     </ul>
-  experience_summaries: <li><a href="st_elizabeth_pendleton_2013.html">Bridget Rizik, Summer 2013</a></li>
+  experience_summaries: # <li><a href="st_elizabeth_pendleton_2013.html">Bridget Rizik, Summer 2013</a></li>
 #
 # 
 #   
@@ -959,8 +954,8 @@
   site_supervisor: Andrew Meyer
   google_map: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3094.233336436266!2d-84.4969285492852!3d39.14667417943253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b3a6dfe83c81%3A0xd5ffb14568441b30!2s3550+Washington+Ave%2C+Cincinnati%2C+OH+45229!5e0!3m2!1sen!2sus!4v1463538399193" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
   job_description: <li><em>Note&#58; There is no job description for this site</em></li>
-  experience_summaries: <li><a href="respite_care_center_2012.html">James Stone, Summer 2012</a></li>
-    <li><a href="respite_care_center_2011.html">Phil Smith, Summer 2011</a></li>
+  experience_summaries: # <li><a href="respite_care_center_2012.html">James Stone, Summer 2012</a></li>
+    # <li><a href="respite_care_center_2011.html">Phil Smith, Summer 2011</a></li>
 #
 # 
 #   
@@ -974,11 +969,12 @@
     <li>Acquire skills in patient communication skills and hands-on "bedside manner".</li>
     <li>Shadow MDs and CNPs and attend clinic staff meetings to learn more about care of geriatric patients and advanced care planning.</li>
     <li>Assist in other duties in the Day Health Center as needed, included but not limited to direct surveying, research, program planning, group/activity facilitation, record keeping, and evaluation.</li>
-  experience_summaries: <li><a href="senior_link_2014.html">Sydni Coleman, Summer 2014</a></li>
-    <li><a href="senior_link_2013.html">Andrea Sattler, Summer 2013</a></li>
-    <li><a href="senior_link_2012.html">Albert Feng, Summer 2012</a></li>
-    <li><a href="senior_link_2011.html">Josh Abell, Summer 2011</a></li>
-    <li><a href="senior_link_2010.html">Katherine Bender, Summer 2010</a></li>
+  experience_summaries: 
+    # <li><a href="senior_link_2014.html">Sydni Coleman, Summer 2014</a></li>
+    # <li><a href="senior_link_2013.html">Andrea Sattler, Summer 2013</a></li>
+    # <li><a href="senior_link_2012.html">Albert Feng, Summer 2012</a></li>
+    # <li><a href="senior_link_2011.html">Josh Abell, Summer 2011</a></li>
+    # <li><a href="senior_link_2010.html">Katherine Bender, Summer 2010</a></li>
     # <li><a href="senior_link_2009.html">Colin Meyer, Summer 2009</a></li>
     # <li><a href="senior_link_2008.html">Dana Hirsch, Summer 2008</a></li>
     # <li><a href="senior_link_2006.html">Jeff Ushupun, Summer 2006</a></li>
@@ -986,7 +982,7 @@
 # 
 #   
 - full_name: womens_health
-  site_name: Women&#39;s Health Services
+  site_name: Former Site&#58; Women&#39;s Health Services
   site_description: <p>Women&#39;s Health Services is dedicated to providing health care to women without insurance or ability to pay for their own medical care. Their mission is to provide expert and compassionate care in the field of obstetrics and gynecology in a way that respects the diverse beliefs and needs of their patients. Women&#39;s Health Services provides annual gynecological exams, pap smears, tissue biopsies, cultures, contraceptive counseling, infertility, family planning, menstrual disturbances, post-menopausal care, hormone replacement therapy, endometriosis, gynecological surgeries and pelvic pain treatment for its patients. Women&#39;s Health Services also treats women with both complicated and uncomplicated pregnancies along with postpartum checkups. Working with Community Outreach Women&#39;s Health Services will hopefully provide the intern with opportunities that will be valuable while acquiring their education as well as instituting this knowledge into their practice. The intern will be introduced to the importance of utilizing all disciplines to provide good holistic care.</p>
   address_one: The University Hospital
   address_two: 234 Goodman Street ML 0794
@@ -1006,9 +1002,10 @@
     <li>See the vast array of services provided to these women to help their overall conditions,</li>
     <li>Work variable hours depending on patient flow and clinic hours.</li>
     <li>Have flex time on Fridays to make up for extra hours worked earlier in the week.</li>
-  experience_summaries: <li><a href="womens_health_2018.html">Stefany	Hernandez, Summer 2018</a></li>
-    <li><a href="womens_health_2011.html">Shannon Bell, Summer 2011</a></li>
-    <li><a href="womens_health_2010.html">Jennifer Kirsop, Summer 2010</a></li>
+  experience_summaries: 
+    # <li><a href="womens_health_2018.html">Stefany Hernandez, Summer 2018</a></li>
+    # <li><a href="womens_health_2011.html">Shannon Bell, Summer 2011</a></li>
+    # <li><a href="womens_health_2010.html">Jennifer Kirsop, Summer 2010</a></li>
     # <li><a href="womens_health_2009.html">Hillary Patterson, Summer 2009</a></li>
     # <li><a href="womens_health_2008.html">Monika Jindal, Summer 2008</a></li>
     # <li><a href="womens_health_2007.html">Natalie Younger, Summer 2007</a></li>

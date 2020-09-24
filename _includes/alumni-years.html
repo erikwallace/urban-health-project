@@ -1,9 +1,16 @@
 <ul class="ls-NoBullet  ls-AlumniYears">
-        <li>
-                {% if page.url == '/alumni.html' %}
-                    <a class="is-Selected" href="{{site.baseurl}}/alumni.html">
+       <li>
+              {% if page.url == '/alumni.html' %}
+                  <a class="is-Selected" href="{{site.baseurl}}/alumni.html">
+              {% else %}
+                  <a class="" href="{{site.baseurl}}/alumni.html">
+              {% endif %}2020</a>
+      </li> 
+       <li>
+                {% if page.url == '/alumni/2019.html' %}
+                    <a class="is-Selected" href="{{site.baseurl}}/alumni/2019.html">
                 {% else %}
-                    <a class="" href="{{site.baseurl}}/alumni.html">
+                    <a class="" href="{{site.baseurl}}/alumni/2019.html">
                 {% endif %}2019</a>
         </li>
         <li>
