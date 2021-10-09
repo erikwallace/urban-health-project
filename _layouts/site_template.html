@@ -29,21 +29,24 @@ class: tm-Site
     {% if page.job_description == null %}
       {% else %}
         <h2 class="pg-Subheading">Job Description</h2>
-        <p>The intern will...</p>
-        <ul>
-          {{page.job_description}}
-        </ul>
+        {{page.job_description}}
     {% endif %}
 
     <hr class="rl-FadeEdges" />
 
-    {% if page.experience_summaries == null %}
+    {% if page.intern_quote == null %}
+      {% else %}
+        <h2 class="pg-Subheading">Intern Quote</h2>
+        {{page.intern_quote}}
+    {% endif %}
+
+    <!--{% if page.experience_summaries == null %}
       {% else %}
         <h2 class="pg-Subheading">Intern Experience Summary</h2>
         <ul class="ls-NoBullet">
           {{page.experience_summaries}}
         </ul>
-    {% endif %}
+    {% endif %}-->
 
     {% if page.additional_info == null %}
       {% else %}
@@ -53,7 +56,7 @@ class: tm-Site
   </article>
 
   <div class="ob-SidebarBox  gd-SiteContactInfo">
-    <h4>Contact Info</h4>
+    <p class="site-title sz-TypeMd">Contact Info</p>
     <hr class="rl-FadeEdges" />
 
     <p>
@@ -105,11 +108,12 @@ class: tm-Site
 
     {% if page.google_map == null %}
     {% else %}
+      <p class="site-title sz-TypeMd">Location of {{page.site_name}}</p>
       <div class="ob-SiteGoogleMap">
         {{page.google_map}}
       </div>
     {% endif %}
-    
+
   </div>
 
 </div>
