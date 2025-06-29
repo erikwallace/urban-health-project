@@ -7,7 +7,7 @@
 
 # Site settings
 title: Urban Health Project
-#email: erikdwallace@gmail.com
+email: urbanhealthproject@gmail.com
 description: Urban Health Project educates, inspires, and challenges medical students through their service to vulnerable populations in Greater Cincinnati to produce more socially responsible physicians who have a greater understanding of factors that impact health.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://urbanhealthproject.org" # the base hostname & protocol for your site
