@@ -1,6 +1,6 @@
 - full_name: bethany_house
-  site_name: Bethany House Services
-  site_description: <p>Bethany House Services was founded in 1984 in response to the large population of women, children, and families experiencing homelessness throughout Greater Cincinnati. Bethany House Services reaches over 1,000 people a year by providing a full range of housing, education, and assistance programs and meeting other needs of homeless and disadvantaged women and children. Through an extensive community network of collaboration that includes the Greater Cincinnati Coalition for the Homeless, the Emergency Services Coalition, Cincinnatians for Affordable Housing, and others, this organization supports direct service and systematic change initiatives. Housing options provided by Bethany House Services include emergency shelter, transitional housing services, and permanent affordable rental housing. Educational services offered include life skills instruction, nurse/home care aide training, safety and wellness programs, child/parent connection classes, and problem-solving and organizational seminars for program participants. The Urban Health Project intern provides general help to the organization by working on family intake and administrative tasks, and assisting social service workers.</p>
+  site_name: Bethany House
+  site_description: <p>Bethany House was founded in 1984 in response to the large population of women, children, and families experiencing homelessness throughout Greater Cincinnati. Bethany House reaches over 1,000 people a year by providing a full range of housing, education, and assistance programs and meeting other needs of homeless and disadvantaged women and children. Through an extensive community network of collaboration that includes the Greater Cincinnati Coalition for the Homeless, the Emergency Services Coalition, Cincinnatians for Affordable Housing, and others, this organization supports direct service and systematic change initiatives. Housing options provided by Bethany House include emergency shelter, transitional housing services, and permanent affordable rental housing. Educational services offered include life skills instruction, nurse/home care aide training, safety and wellness programs, child/parent connection classes, and problem-solving and organizational seminars for program participants. The Urban Health Project intern provides general help to the organization by working on family intake and administrative tasks, and assisting social service workers.</p>
   address_one: 1836 Fairmount Avenue
   city_state_zip: Cincinnati, OH 45214
   phone: 513-557-2406
@@ -29,7 +29,7 @@
       # <li><a href="bethany_house_2009.html">Manisha Patel, Summer 2009</a></li>
       # <li><a href="bethany_house_2008.html">Yetnayet Zewge, Summer 2008</a></li>
       # <li><a href="bethany_house_2006.html">Candace Leigh, Summer 2006</a></li>
-  #additional_info: <p><p>In 2018, this site will include opportunities for Community Based Research! Details will be coming soon.</p></p>
+  #additional_info: <p>In 2018, this site will include opportunities for Community Based Research! Details will be coming soon.</p>
 #
 #
 #
@@ -362,7 +362,7 @@
     # <li><a href="first_step_home_2012.html">Heather Hughes, Summer 2012</a></li>
     # <li><a href="first_step_home_2011.html">Pratima Shanbhag, Summer 2011</a></li>
     # <li><a href="first_step_home_2010.html">Seth Vensil, Summer 2010</a></li>
-  #additional_info: <p><p>In 2018, this site will include opportunities for Quality Improvement Research! Details will be coming soon.</p></p>
+  #additional_info: <p>In 2018, this site will include opportunities for Quality Improvement Research! Details will be coming soon.</p>
 #
 #
 #
@@ -388,8 +388,8 @@
 #
 #
 - full_name: price_hill_free_clinic
-  site_name: Good Samaritan Free Health Center
-  site_description: <p>The Good Samaritan Free Health Center (GSFHC) is a volunteer-staffed clinic in Price Hill that serves adults in Hamilton County with low incomes who do not have Medicare, Medicaid, or private health insurance. The GSFHC serves as a comprehensive primary care center for its patients with a wide range of services including counseling, dental, medical specialty care and more. The center helps fill a healthcare need for those with few other places to turn.</p>
+  site_name: Good Sam Free Health Center
+  site_description: <p>The Good Sam Free Health Center (GSFHC) is a volunteer-staffed clinic in Price Hill that serves adults in Hamilton County with low incomes who do not have Medicare, Medicaid, or private health insurance. The GSFHC serves as a comprehensive primary care center for its patients with a wide range of services including counseling, dental, medical specialty care and more. The center helps fill a healthcare need for those with few other places to turn.</p>
   address_one: 3727 St. Lawrence Ave.
   city_state_zip: Cincinnati, OH 45205
   phone: 513-246-6888
@@ -411,10 +411,9 @@
       <li>Interpret for Spanish-speaking patients (if bilingual in Spanish).</li>
     </ul>
   intern_quote:
-    <p>&ldquo;<p>A typical day for me starts at 8am and ends around 4pm, but what I do each day is usually a little different. Most days I help out as a medical assistant. I room patients, take vital signs, and perform phlebotomy. On days where there&apos;s enough MAs, I spend most of my time as a Spanish interpreter. I&apos;ve also been helping to fill in for their community health worker who sets up all the patient referrals to specialists and imaging services.</p>
+    <p>&ldquo;A typical day for me starts at 8am and ends around 4pm, but what I do each day is usually a little different. Most days I help out as a medical assistant. I room patients, take vital signs, and perform phlebotomy. On days where there&apos;s enough MAs, I spend most of my time as a Spanish interpreter. I&apos;ve also been helping to fill in for their community health worker who sets up all the patient referrals to specialists and imaging services.</p>
     <p>My summer at the GSFHC has given me valuable experiences and insights into healthcare for the underserved. I&apos;ve learned so much about the many obstacles that the clinic patients face, but also have seen how I can work to remove these barriers as a future physician.&rdquo;</p>
     <p>&ndash; Josh Yem</p>
-    /p>fer</p>
   experience_summaries: # <li><a href="https://youtu.be/T2Ajoxi6Iaw">Watch to hear more about Evan's summer experience</a></li>
     # <li><a href="price_hill_free_clinic_2019.html">Parth Patel, Summer 2019</a></li>
     # <li><a href="price_hill_free_clinic_2018.html">Adam Darwiche, Summer 2018</a></li>
@@ -424,7 +423,7 @@
     # <li><a href="price_hill_free_clinic_2014_01.html">Daniel Lyons, Summer 2014</a></li>
     # <li><a href="price_hill_free_clinic_2014_02.html">Geoffrey Newcomb, Summer 2014</a></li>
     # <li><a href="price_hill_free_clinic_2013.html">Viona Zhang, Summer 2013</a></li>
-  additional_info: <p><p>Soon this site will include opportunities for Quality Improvement Research! Details will be coming soon.</p></p>
+  additional_info: <p>Soon this site will include opportunities for Quality Improvement Research! Details will be coming soon.</p>
 #
 #
 #
@@ -652,7 +651,7 @@
     # <li><a href="off_the_streets_2012.html">Monica Benedikt, Summer 2012</a></li>
     # <li><a href="off_the_streets_2011.html">Morgan Elise Brown, Summer 2011</a></li>
     # <li><a href="off_the_streets_2010.html">Andrea Sitlinger, Summer 2010</a></li>
-  #additional_info: <p><p>In 2018, this site will include opportunities for Community Based Research! Details will be coming soon.</p></p>
+  #additional_info: <p>In 2018, this site will include opportunities for Community Based Research! Details will be coming soon.</p>
 #
 #
 #
@@ -1133,7 +1132,7 @@
 #
 #
 - full_name: hospice_of_cincinnati
-  site_name: Former Site&#58; Hospice of Cincinnati
+  site_name: Hospice of Cincinnati
   site_description: <p>Hospice of Cincinnati specializes in providing comfort, compassion, and personalized end-of-life care to all those in need. It is the only non-profit hospice provider in Cincinnati. HOC provides care for patients who are considered terminal and are expected to live six months or less if their disease follows its natural course. Many patients outlive this, and HOC ensures that patients are comfortable and that they experience the best quality of life possible. There are a wide variety of services offered by HOC, including medical and palliative care, social work, spiritual care, and non-traditional therapies.  A team of physicians, nurses, social workers, chaplains, home health aides, and volunteers all work to ensure that the patient&#39;s needs are being met. HOC provides care for patients in their homes, whether that is a traditional house or a long-term care facility. In addition, patients have the ability to stay short-term in one of the four inpatient units to address acute problems or to give caregivers a break. HOC is also affiliated with the Goldstein Family Grief Center and Fernside, which provide grief support for both adults and children.</p>
   address_one: 4360 Cooper Road
   city_state_zip: Cincinnati, OH 45242
