@@ -1,0 +1,38 @@
+# OS and Editor Files
+.DS_Store
+*.swp
+*.swo
+*.log
+.env
+
+# Jekyll default directory
+_site/jekyll/**
+.jekyll-cache/**
+
+# Ruby and Gem Dependencies
+vendor/
+Gemfile
+Gemfile.lock
+
+# Node.js (if used for tasks)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Netlify-Specific Files
+.netlify/
+cache/
+logs/
+
+# Temporary or Local Files
+*.bak
+*.tmp
+
+# IDE-Specific Files
+.idea/
+.vscode/
+*.code-workspace
+
+# Optional: Exclude Ruby Version Files (if using rvm/chruby)
+.ruby-version
+.ruby-gemset
