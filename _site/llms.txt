@@ -1,0 +1,18 @@
+# Urban Health Project
+
+> A student-run nonprofit pairing first-year University of Cincinnati medical
+> students with community health organizations in Greater Cincinnati and
+> Northern Kentucky for eight-week summer internships, since 1986.
+
+## Key pages
+- [About](https://urbanhealthproject.org/about.html): Mission, history, and program overview
+- [Sites](https://urbanhealthproject.org/sites.html): Partner organizations interns work with
+- [Funders](https://urbanhealthproject.org/funders.html): The patrons, sponsors, and partners whose donations support the program
+- [Get Involved](https://urbanhealthproject.org/become_involved.html): How to apply as a summer intern, Co-Director, donor, or Advisory Board member
+- [Alumni](https://urbanhealthproject.org/alumni.html): Every Urban Health Project member since 1987
+- [Media](https://urbanhealthproject.org/media.html): Social media and the annual Community and Homeless Resource Map
+- [Contact](https://urbanhealthproject.org/contact.html): Reach the current Co-Directors
+- [Privacy Policy](https://urbanhealthproject.org/privacy.html): What information this site collects and how it's used
+
+## Donate
+- [Donate via the University of Cincinnati Foundation](https://foundation.uc.edu/donate?id=693a5ba0-791b-4c01-9b41-0f506f4f8a02): Donations are processed entirely by the UC Foundation, not this site

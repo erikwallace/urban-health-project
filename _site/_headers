@@ -1,0 +1,27 @@
+/*
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), microphone=(), camera=(), payment=()
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://*.google-analytics.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://*.google-analytics.com https://www.googletagmanager.com; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com; frame-src https://www.google.com; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'
+
+# Images and downloads are never edited in place on this site — a changed
+# asset gets a new filename, so a long, immutable cache is safe.
+/imgs/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/downloads/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# CSS follows the same date-versioned-filename convention (e.g.
+# main-20260823a.css) — safe to cache long IF that convention is kept:
+# bump the filename on future content changes rather than editing this
+# file in place, or returning visitors will keep a stale cached copy for
+# up to a year.
+/css/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# JS files aren't filename-versioned, so cache them more conservatively.
+/js/*
+  Cache-Control: public, max-age=86400

@@ -306,15 +306,13 @@ a.bt-Primary:hover {
 }
 
 .btn:focus {
-    background: #985111
+    background: #985111;
+    outline: 2px solid #2c3e50;
+    outline-offset: 2px
 }
 
 .btn::-moz-focus-inner {
     border: 0
-}
-
-.btn:focus {
-    outline: 0
 }
 
 .btn-primary {
@@ -690,8 +688,8 @@ a.bt-Primary:hover {
 }
 
 .ft-Links a:hover {
-    color: #fff;
-    opacity: 0.5
+    color: #A8DFF1;
+    opacity: 1
 }
 
 .ft-Links a.ft-LinkCta {
@@ -959,19 +957,13 @@ a.hd-Nav_Link {
     }
 }
 
-a.hd-Nav_Link :hover {
-    border-block-end: 1px solid #fff;
-    color: #fff;
-    padding-block-end: 2px
-}
-
 a.hd-Nav_Link.is-Selected {
-    color: #999
+    color: #A8DFF1
 }
 
 a.hd-Nav_Link.is-Selected span {
     padding-block-end: 2px;
-    border-block-end: 1px solid #999
+    border-block-end: 3px solid #A8DFF1
 }
 
 a.hd-Nav_Link:last-child {
@@ -979,7 +971,9 @@ a.hd-Nav_Link:last-child {
 }
 
 a.hd-Nav_Link:hover {
-    opacity: .5;
+    color: #A8DFF1;
+    opacity: 1;
+    padding-block-end: 2px;
     text-decoration: none
 }
 
@@ -1305,4 +1299,81 @@ a:hover {
     position: absolute;
     inline-size: 1px;
     white-space: nowrap
+}
+
+.sk-SkipLink {
+    position: absolute;
+    inset-block-start: -100px;
+    inset-inline-start: 0;
+    z-index: 10000;
+    background: #2c3e50;
+    color: #fff;
+    padding: 12px 20px;
+    text-decoration: none;
+    font-family: "Oswald", sans-serif;
+    letter-spacing: 1px;
+    transition: inset-block-start 0.2s ease
+}
+
+.sk-SkipLink:focus {
+    inset-block-start: 0
+}
+
+.ck-Banner {
+    position: fixed;
+    inset-inline: 0;
+    inset-block-end: 0;
+    z-index: 9999;
+    background: #2c3e50;
+    color: #fff;
+    padding: 16px 20px;
+    box-shadow: 0 -2px 8px rgba(0,0,0,0.2)
+}
+
+.ck-Banner[hidden] {
+    display: none
+}
+
+.ck-Banner:not([hidden]) {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px
+}
+
+.ck-Banner p {
+    margin: 0;
+    flex: 1 1 300px
+}
+
+.ck-Banner a {
+    color: #fff
+}
+
+.ck-Banner_Actions {
+    display: flex;
+    gap: 12px;
+    flex-shrink: 0
+}
+
+.ck-Banner_Decline {
+    background: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+    padding: 10px 16px;
+    border-radius: 6px;
+    font-family: "Oswald", sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    cursor: pointer
+}
+
+.ck-Banner_Decline:hover {
+    background: rgba(255,255,255,0.1)
+}
+
+.ck-Banner_Decline:focus {
+    outline: 2px solid #fff;
+    outline-offset: 2px
 }
