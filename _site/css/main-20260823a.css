@@ -890,8 +890,8 @@ ol li,ul li,.ls-NoBullet li {
 }
 
 .ls-AlumniYears a.is-Selected {
-    background-color: #e5e5e5;
-    color: #555;
+    background-color: #3879B6;
+    color: white;
     cursor: default;
     font-weight: bold;
     text-decoration: none
@@ -1087,7 +1087,7 @@ hr.rl-FadeEdges {
 }
 
 .ob-ImageBlockCaption {
-    max-inline-size: 475px
+    max-inline-size: 750px;
 }
 
 .ob-ImageBlockCaption_261 {

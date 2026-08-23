@@ -16,9 +16,13 @@ year: 2022
   <article class="gd-AlumniContent">
 
     <figure class="ob-ImageBlockCaption">
-        <img src="{{site.baseurl}}/imgs/alumni/{{page.year}}.jpg"
+        <img src="{{site.baseurl}}/imgs/alumni/{{page.year}}.webp"
           alt="Urban Health Project {{page.year}} Alumni"
-          srcset="{{site.baseurl}}/imgs/alumni/{{page.year}}.jpg, {{site.baseurl}}/imgs/alumni/{{page.year}}.jpg 2x">
+          srcset="{{site.baseurl}}/imgs/alumni/{{page.year}}.webp 800w, {{site.baseurl}}/imgs/alumni/{{page.year}}@2x.webp 1600w"
+          sizes="475px"
+          width="800" height="600"
+          loading="lazy"
+          decoding="async">
         <figcaption>
           Urban Health Project {{page.year}} Alumni
         </figcaption>
