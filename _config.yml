@@ -28,3 +28,8 @@ page_gen:
 sass:
     sass_dir: _sass
     style: compressed
+
+# Jekyll excludes underscore-prefixed files by default; Netlify needs
+# _headers copied into the published site to apply response headers.
+include:
+  - "_headers"
